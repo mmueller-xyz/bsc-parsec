@@ -1,4 +1,4 @@
-threads := 4 8 16 32 64 128 256
+threads := 001 002 004 008 016 032 064 128 # 256
 partition := zen3_0512
 qos := zen3_0512
 time := "10:00"
@@ -6,34 +6,40 @@ mail := "e11810852@student.tuwien.ac.at"
 srun := srun
 parsecmgmt := $(HOME)/Benchmarks/parsec/bin/parsecmgmt
 input := native
-configurations:= blackscholes bodytrack fmm fft barnes ocean_cp ocean_ncp radiosity raytrace volrend water_nsquared water_spatial
+configurations:= blackscholes bodytrack # fmm fft barnes ocean_cp ocean_ncp radiosity raytrace volrend water_nsquared water_spatial
 
 all: $(configurations)
 
 # Number of cpus allocated to each Benchmark
-  %4.slurm: CORES_PER_TASK =   4
-  %8.slurm: CORES_PER_TASK =   8
- %16.slurm: CORES_PER_TASK =  16
- %32.slurm: CORES_PER_TASK =  32
- %64.slurm: CORES_PER_TASK =  64
+%001.slurm: CORES_PER_TASK = 001
+%002.slurm: CORES_PER_TASK = 002
+%004.slurm: CORES_PER_TASK = 004
+%008.slurm: CORES_PER_TASK = 008
+%016.slurm: CORES_PER_TASK = 016
+%032.slurm: CORES_PER_TASK = 032
+%064.slurm: CORES_PER_TASK = 064
 %128.slurm: CORES_PER_TASK = 128
 %256.slurm: CORES_PER_TASK = 256
 
 # Number of tasks running at the same time
-  %4.slurm: TASKS = 32
-  %8.slurm: TASKS = 16
- %16.slurm: TASKS =  8
- %32.slurm: TASKS =  4
- %64.slurm: TASKS =  2
-%128.slurm: TASKS =  1
-%256.slurm: TASKS =  1
+%001.slurm: TASKS = 1
+%002.slurm: TASKS = 1
+%004.slurm: TASKS = 1
+%008.slurm: TASKS = 1
+%016.slurm: TASKS = 1
+%032.slurm: TASKS = 1
+%064.slurm: TASKS = 1
+%128.slurm: TASKS = 1
+%256.slurm: TASKS = 1
 
 # Number of benchmark iterations
-  %4.slurm: RUNS = 1
-  %8.slurm: RUNS = 2
- %16.slurm: RUNS = 4
- %32.slurm: RUNS = 8
- %64.slurm: RUNS = 16
+%001.slurm: RUNS = 32
+%002.slurm: RUNS = 32
+%004.slurm: RUNS = 32
+%008.slurm: RUNS = 32
+%016.slurm: RUNS = 32
+%032.slurm: RUNS = 32
+%064.slurm: RUNS = 32
 %128.slurm: RUNS = 32
 %256.slurm: RUNS = 32
 
