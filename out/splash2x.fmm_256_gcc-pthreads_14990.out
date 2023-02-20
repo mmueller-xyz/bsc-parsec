@@ -1,0 +1,1156 @@
+n3501-039
+Testing splash2x.fmm 32 times on 256 cores using input size:native
+01/15/23 23:52:52  1673823172.952813073
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1181034      137162       82020       68332      311652      284090       89678       63865      144183
+
+                                   TIMING INFORMATION
+Start time                        : 1673823174640118
+Initialization finish time        : 1673823178126281
+Overall finish time               : 1673823179307315
+Total time with initialization    :          4667197
+Total time without initialization :          1252595
+
+Total time for steps 3 to 5 :      1252595
+
+
+real	0m4.802s
+user	5m46.574s
+sys	0m8.796s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1106248      113118       55429       92387      359837      305512       37038       46512       96350
+
+                                   TIMING INFORMATION
+Start time                        : 1673823180230387
+Initialization finish time        : 1673823183832396
+Overall finish time               : 1673823184938644
+Total time with initialization    :          4708257
+Total time without initialization :          1182558
+
+Total time for steps 3 to 5 :      1182558
+
+
+real	0m4.780s
+user	5m28.223s
+sys	0m7.735s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1144715      163487       52948      108241      180886      261214       88279       31524      258069
+
+                                   TIMING INFORMATION
+Start time                        : 1673823185777365
+Initialization finish time        : 1673823189258527
+Overall finish time               : 1673823190403241
+Total time with initialization    :          4625876
+Total time without initialization :          1221167
+
+Total time for steps 3 to 5 :      1221167
+
+
+real	0m4.762s
+user	5m51.053s
+sys	0m9.542s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1174141      188517       66284       80265      234858      262884       86270       50778      204253
+
+                                   TIMING INFORMATION
+Start time                        : 1673823191319832
+Initialization finish time        : 1673823194949611
+Overall finish time               : 1673823196123751
+Total time with initialization    :          4803919
+Total time without initialization :          1266888
+
+Total time for steps 3 to 5 :      1266888
+
+
+real	0m4.941s
+user	6m35.260s
+sys	0m6.491s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1183625      168506       69398      120589       93612      279500      153671       28330      269978
+
+                                   TIMING INFORMATION
+Start time                        : 1673823196986282
+Initialization finish time        : 1673823200367302
+Overall finish time               : 1673823201550928
+Total time with initialization    :          4564646
+Total time without initialization :          1243029
+
+Total time for steps 3 to 5 :      1243029
+
+
+real	0m4.722s
+user	6m2.201s
+sys	0m8.619s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1089785       89724       70647       70546      370291      312282       35901       49609       90721
+
+                                   TIMING INFORMATION
+Start time                        : 1673823202460364
+Initialization finish time        : 1673823206053062
+Overall finish time               : 1673823207142849
+Total time with initialization    :          4682485
+Total time without initialization :          1177077
+
+Total time for steps 3 to 5 :      1177077
+
+
+real	0m4.747s
+user	5m32.676s
+sys	0m7.408s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1139044      132098       75884       60801      307536      298545       62483       58901      142766
+
+                                   TIMING INFORMATION
+Start time                        : 1673823208037184
+Initialization finish time        : 1673823211452234
+Overall finish time               : 1673823212591278
+Total time with initialization    :          4554094
+Total time without initialization :          1208436
+
+Total time for steps 3 to 5 :      1208436
+
+
+real	0m4.683s
+user	5m47.821s
+sys	0m7.626s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1183994      126596       72828       74624      325112      285342       41454       60100      197878
+
+                                   TIMING INFORMATION
+Start time                        : 1673823213488217
+Initialization finish time        : 1673823216774605
+Overall finish time               : 1673823217958598
+Total time with initialization    :          4470381
+Total time without initialization :          1196357
+
+Total time for steps 3 to 5 :      1196357
+
+
+real	0m4.573s
+user	5m55.450s
+sys	0m6.048s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1141343      106255       51922      108314      388900      298533       47400       45427       94505
+
+                                   TIMING INFORMATION
+Start time                        : 1673823218848137
+Initialization finish time        : 1673823222493912
+Overall finish time               : 1673823223635255
+Total time with initialization    :          4787118
+Total time without initialization :          1208811
+
+Total time for steps 3 to 5 :      1208811
+
+
+real	0m4.856s
+user	5m59.816s
+sys	0m6.554s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1182224      180913       56723      112354      124675      279113      147040       35576      245793
+
+                                   TIMING INFORMATION
+Start time                        : 1673823224462524
+Initialization finish time        : 1673823227834423
+Overall finish time               : 1673823229016647
+Total time with initialization    :          4554123
+Total time without initialization :          1263895
+
+Total time for steps 3 to 5 :      1263895
+
+
+real	0m4.685s
+user	5m58.193s
+sys	0m8.951s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1191544      198757       55804      116067      197781      255386       86996       26848      253870
+
+                                   TIMING INFORMATION
+Start time                        : 1673823229945136
+Initialization finish time        : 1673823233365068
+Overall finish time               : 1673823234556614
+Total time with initialization    :          4611478
+Total time without initialization :          1273543
+
+Total time for steps 3 to 5 :      1273543
+
+
+real	0m4.753s
+user	5m59.235s
+sys	0m9.990s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1158615      182594       52515      109587       94631      307910      122985       22936      265434
+
+                                   TIMING INFORMATION
+Start time                        : 1673823235470017
+Initialization finish time        : 1673823238915645
+Overall finish time               : 1673823240074261
+Total time with initialization    :          4604244
+Total time without initialization :          1220217
+
+Total time for steps 3 to 5 :      1220217
+
+
+real	0m4.738s
+user	5m50.702s
+sys	0m9.540s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1196588       85555      110785       42425      447308      316384       10310       35201      148586
+
+                                   TIMING INFORMATION
+Start time                        : 1673823240987378
+Initialization finish time        : 1673823244393108
+Overall finish time               : 1673823245589696
+Total time with initialization    :          4602318
+Total time without initialization :          1276119
+
+Total time for steps 3 to 5 :      1276119
+
+
+real	0m4.670s
+user	6m5.821s
+sys	0m7.579s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1153646      139078       63750       85900      239626      264641       90546       30924      239156
+
+                                   TIMING INFORMATION
+Start time                        : 1673823246437937
+Initialization finish time        : 1673823249816454
+Overall finish time               : 1673823250970101
+Total time with initialization    :          4532164
+Total time without initialization :          1242657
+
+Total time for steps 3 to 5 :      1242657
+
+
+real	0m4.652s
+user	5m39.939s
+sys	0m7.919s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1207552      189683       54385      119125      212458      253094       93462       26985      258336
+
+                                   TIMING INFORMATION
+Start time                        : 1673823251847848
+Initialization finish time        : 1673823255177552
+Overall finish time               : 1673823256385105
+Total time with initialization    :          4537257
+Total time without initialization :          1272927
+
+Total time for steps 3 to 5 :      1272927
+
+
+real	0m4.684s
+user	6m17.789s
+sys	0m7.891s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1123000      134387       58006       99516      209273      261826       85975       42386      231624
+
+                                   TIMING INFORMATION
+Start time                        : 1673823257283137
+Initialization finish time        : 1673823260692226
+Overall finish time               : 1673823261815227
+Total time with initialization    :          4532090
+Total time without initialization :          1236881
+
+Total time for steps 3 to 5 :      1236881
+
+
+real	0m4.664s
+user	5m40.784s
+sys	0m7.535s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1163625       65461      135145       50785      415161      314797       11782       35536      134781
+
+                                   TIMING INFORMATION
+Start time                        : 1673823262673855
+Initialization finish time        : 1673823266150421
+Overall finish time               : 1673823267314046
+Total time with initialization    :          4640191
+Total time without initialization :          1238017
+
+Total time for steps 3 to 5 :      1238017
+
+
+real	0m4.708s
+user	5m56.519s
+sys	0m8.777s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1136078      166827       43887      105125      149667      286976       93803       30375      259374
+
+                                   TIMING INFORMATION
+Start time                        : 1673823268153988
+Initialization finish time        : 1673823271715728
+Overall finish time               : 1673823272851807
+Total time with initialization    :          4697819
+Total time without initialization :          1216799
+
+Total time for steps 3 to 5 :      1216799
+
+
+real	0m4.837s
+user	5m51.998s
+sys	0m8.271s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1128861       86765       43895      111011      372368      303978       40657       51091      119035
+
+                                   TIMING INFORMATION
+Start time                        : 1673823273788324
+Initialization finish time        : 1673823277256346
+Overall finish time               : 1673823278385208
+Total time with initialization    :          4596884
+Total time without initialization :          1211297
+
+Total time for steps 3 to 5 :      1211297
+
+
+real	0m4.731s
+user	5m53.261s
+sys	0m6.038s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1092847      121105       43997       94713      101279      338041       88625       32848      272195
+
+                                   TIMING INFORMATION
+Start time                        : 1673823279271285
+Initialization finish time        : 1673823282599340
+Overall finish time               : 1673823283692188
+Total time with initialization    :          4420903
+Total time without initialization :          1152971
+
+Total time for steps 3 to 5 :      1152971
+
+
+real	0m4.547s
+user	5m34.324s
+sys	0m6.890s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1218157      204523       53839      122201      128219      282312      122147       24734      280148
+
+                                   TIMING INFORMATION
+Start time                        : 1673823284578051
+Initialization finish time        : 1673823288036402
+Overall finish time               : 1673823289254560
+Total time with initialization    :          4676509
+Total time without initialization :          1263054
+
+Total time for steps 3 to 5 :      1263054
+
+
+real	0m4.842s
+user	6m17.156s
+sys	0m7.556s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1187770      162524       70102       90423      231917      264507       98816       53000      216417
+
+                                   TIMING INFORMATION
+Start time                        : 1673823290180186
+Initialization finish time        : 1673823293742069
+Overall finish time               : 1673823294929840
+Total time with initialization    :          4749654
+Total time without initialization :          1275201
+
+Total time for steps 3 to 5 :      1275201
+
+
+real	0m4.869s
+user	6m17.437s
+sys	0m7.557s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1142092      147693       60110      100094      201813      260088       79939       36898      255434
+
+                                   TIMING INFORMATION
+Start time                        : 1673823295827919
+Initialization finish time        : 1673823299169024
+Overall finish time               : 1673823300311115
+Total time with initialization    :          4483196
+Total time without initialization :          1211011
+
+Total time for steps 3 to 5 :      1211011
+
+
+real	0m4.604s
+user	5m46.312s
+sys	0m8.131s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1155731      161887       46499      103823      167757      262020      115239       27274      271190
+
+                                   TIMING INFORMATION
+Start time                        : 1673823301172508
+Initialization finish time        : 1673823304601108
+Overall finish time               : 1673823305756839
+Total time with initialization    :          4584331
+Total time without initialization :          1216643
+
+Total time for steps 3 to 5 :      1216643
+
+
+real	0m4.728s
+user	5m41.873s
+sys	0m7.943s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1245293      183787       51864      109700      247677      258207      104771       39168      250088
+
+                                   TIMING INFORMATION
+Start time                        : 1673823306687340
+Initialization finish time        : 1673823310103959
+Overall finish time               : 1673823311349251
+Total time with initialization    :          4661911
+Total time without initialization :          1282776
+
+Total time for steps 3 to 5 :      1282776
+
+
+real	0m4.752s
+user	6m30.703s
+sys	0m7.787s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1204204       86285      117649       48595      436833      313144       11347       35540      154779
+
+                                   TIMING INFORMATION
+Start time                        : 1673823312194396
+Initialization finish time        : 1673823315783178
+Overall finish time               : 1673823316987383
+Total time with initialization    :          4792987
+Total time without initialization :          1274573
+
+Total time for steps 3 to 5 :      1274573
+
+
+real	0m4.868s
+user	6m15.483s
+sys	0m7.892s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1196917      144216       86382       54155      319201      285682       79263       63009      164956
+
+                                   TIMING INFORMATION
+Start time                        : 1673823317852945
+Initialization finish time        : 1673823321182176
+Overall finish time               : 1673823322379093
+Total time with initialization    :          4526148
+Total time without initialization :          1223332
+
+Total time for steps 3 to 5 :      1223332
+
+
+real	0m4.596s
+user	5m38.402s
+sys	0m7.821s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1210569      150644       72182       85283      227436      292330      109963       56722      215980
+
+                                   TIMING INFORMATION
+Start time                        : 1673823323198001
+Initialization finish time        : 1673823326661412
+Overall finish time               : 1673823327871981
+Total time with initialization    :          4673980
+Total time without initialization :          1290178
+
+Total time for steps 3 to 5 :      1290178
+
+
+real	0m4.772s
+user	6m20.671s
+sys	0m6.613s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1173621      175531       66200       97383       92872      290272      143627       33542      274151
+
+                                   TIMING INFORMATION
+Start time                        : 1673823328944728
+Initialization finish time        : 1673823332432696
+Overall finish time               : 1673823333606318
+Total time with initialization    :          4661590
+Total time without initialization :          1242080
+
+Total time for steps 3 to 5 :      1242080
+
+
+real	0m4.793s
+user	5m58.027s
+sys	0m9.152s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1214564      143006       80501       71554      342458      291547       52147       48842      184439
+
+                                   TIMING INFORMATION
+Start time                        : 1673823334478417
+Initialization finish time        : 1673823338052907
+Overall finish time               : 1673823339267473
+Total time with initialization    :          4789056
+Total time without initialization :          1285002
+
+Total time for steps 3 to 5 :      1285002
+
+
+real	0m4.876s
+user	6m6.308s
+sys	0m9.245s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1144259      149151       71610       90857      213847      255102      106180       46098      211362
+
+                                   TIMING INFORMATION
+Start time                        : 1673823340193790
+Initialization finish time        : 1673823343537842
+Overall finish time               : 1673823344682102
+Total time with initialization    :          4488312
+Total time without initialization :          1224353
+
+Total time for steps 3 to 5 :      1224353
+
+
+real	0m4.592s
+user	5m58.790s
+sys	0m6.806s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 256 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_256...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 256 < input_256:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 256 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      1114736      100034       66132       62836      307935      295247       64248       60386      157844
+
+                                   TIMING INFORMATION
+Start time                        : 1673823345552645
+Initialization finish time        : 1673823348902346
+Overall finish time               : 1673823350017083
+Total time with initialization    :          4464438
+Total time without initialization :          1179849
+
+Total time for steps 3 to 5 :      1179849
+
+
+real	0m4.538s
+user	5m53.441s
+sys	0m6.256s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+01/15/23 23:55:50  1673823350.091910071

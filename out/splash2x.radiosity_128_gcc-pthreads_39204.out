@@ -1,0 +1,740 @@
+n3504-032
+Testing splash2x.radiosity 32 times on 128 cores using input size:native
+01/24/23 16:29:30  1674574170.674906148
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.608s
+user	0m13.695s
+sys	0m33.492s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m1.040s
+user	0m28.441s
+sys	1m11.920s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m1.108s
+user	0m28.952s
+sys	1m20.183s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.624s
+user	0m15.214s
+sys	0m34.198s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m1.013s
+user	0m27.075s
+sys	1m10.406s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m1.057s
+user	0m27.812s
+sys	1m15.149s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.991s
+user	0m24.789s
+sys	1m9.769s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.719s
+user	0m15.056s
+sys	0m46.895s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.962s
+user	0m24.121s
+sys	1m6.940s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.721s
+user	0m16.285s
+sys	0m45.581s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.883s
+user	0m21.068s
+sys	1m0.748s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.859s
+user	0m22.026s
+sys	0m55.977s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m1.016s
+user	0m25.489s
+sys	1m12.625s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.764s
+user	0m16.703s
+sys	0m50.275s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.944s
+user	0m23.493s
+sys	1m5.203s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.923s
+user	0m22.221s
+sys	1m3.667s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.792s
+user	0m16.607s
+sys	0m53.545s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.636s
+user	0m17.420s
+sys	0m33.800s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.608s
+user	0m15.596s
+sys	0m32.553s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m1.018s
+user	0m25.684s
+sys	1m13.006s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.673s
+user	0m14.851s
+sys	0m41.637s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.748s
+user	0m15.989s
+sys	0m49.703s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.781s
+user	0m19.515s
+sys	0m49.646s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m1.023s
+user	0m25.793s
+sys	1m13.772s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.940s
+user	0m25.149s
+sys	1m3.258s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m1.106s
+user	0m29.230s
+sys	1m20.082s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.642s
+user	0m14.735s
+sys	0m36.889s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.936s
+user	0m23.887s
+sys	1m4.793s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.910s
+user	0m22.403s
+sys	1m2.931s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.607s
+user	0m13.958s
+sys	0m33.688s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m1.033s
+user	0m23.876s
+sys	1m15.783s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.radiosity
+
+[PARSEC] [========== Running benchmark splash2x.radiosity [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/run.sh 128 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/radiosity/inst/amd64-linux.gcc-pthreads/bin/radiosity -bf 1.5e-4 -batch -largeroom -p 128:
+Panic(P0):No free task
+  Local 0
+  Q0 free 0
+  Q0 task 0
+
+real	0m0.674s
+user	0m15.678s
+sys	0m40.706s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+01/24/23 16:30:23  1674574223.133316911

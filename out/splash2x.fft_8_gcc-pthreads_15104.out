@@ -1,0 +1,2564 @@
+n3503-027
+Testing splash2x.fft 2 times on 8 cores using input size:native
+01/16/23 00:50:28  1673826628.476440954
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Benchmarks to run:  splash2x.fft
+
+
+
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.fft
+
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Benchmarks to run:  splash2x.fft
+
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.fft
+
+[PARSEC] Keeping old run directory.
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Benchmarks to run:  splash2x.fft
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Benchmarks to run:  splash2x.fft
+
+[PARSEC] [---------- Beginning of output ----------]
+
+
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Benchmarks to run:  splash2x.fft
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+
+
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1011512
+Transpose: iter_num = 0
+Step 2:  1460912
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   547040
+Step 4:  1161419
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   363224
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4548118        1921776       0.42254
+
+                 TIMING INFORMATION
+Start time                        : 1673826632671620
+Initialization finish time        : 1673826640917994
+Overall finish time               : 1673826645466112
+Total time with initialization    :         12794492
+Total time without initialization :          4548118
+Overall transpose time            :          1921776
+Overall transpose fraction        :          0.42254
+
+
+real	0m12.820s
+user	0m39.966s
+sys	0m3.731s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 25165824
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 29360128
+Step 1:   912055
+Step 2:  1503072
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 25165824
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 3:   527959
+Transpose: iter_num = 0
+Step 4:  1226894
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 25165824
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 5:   512786
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4690378        1952800       0.41634
+
+                 TIMING INFORMATION
+Start time                        : 1673826632669525
+Initialization finish time        : 1673826640924131
+Overall finish time               : 1673826645614509
+Total time with initialization    :         12944984
+Total time without initialization :          4690378
+Overall transpose time            :          1952800
+Overall transpose fraction        :          0.41634
+
+
+real	0m13.002s
+user	0m42.049s
+sys	0m2.594s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1016818
+Transpose: iter_num = 0
+Step 2:  1454424
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   559245
+Step 4:  1159772
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   587846
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4792508        2163909       0.45152
+
+                 TIMING INFORMATION
+Start time                        : 1673826632695568
+Initialization finish time        : 1673826640931592
+Overall finish time               : 1673826645724100
+Total time with initialization    :         13028532
+Total time without initialization :          4792508
+Overall transpose time            :          2163909
+Overall transpose fraction        :          0.45152
+
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1042688
+Step 2:  1419251
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   523532
+Step 4:  1220901
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   567394
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4782351        2133614       0.44614
+
+                 TIMING INFORMATION
+Start time                        : 1673826632712019
+Initialization finish time        : 1673826640947761
+Overall finish time               : 1673826645730112
+Total time with initialization    :         13018093
+Total time without initialization :          4782351
+Overall transpose time            :          2133614
+Overall transpose fraction        :          0.44614
+
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1017492
+Step 2:  1447946
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   528575
+Step 4:  1204400
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   599750
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4798304        2145817       0.44720
+
+                 TIMING INFORMATION
+Start time                        : 1673826632711473
+Initialization finish time        : 1673826640940583
+Overall finish time               : 1673826645738887
+Total time with initialization    :         13027414
+Total time without initialization :          4798304
+Overall transpose time            :          2145817
+Overall transpose fraction        :          0.44720
+
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1046051
+Step 2:  1426273
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   547790
+Step 4:  1166314
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   603356
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4789900        2197197       0.45871
+
+                 TIMING INFORMATION
+Start time                        : 1673826632713999
+Initialization finish time        : 1673826640955238
+Overall finish time               : 1673826645745138
+Total time with initialization    :         13031139
+Total time without initialization :          4789900
+Overall transpose time            :          2197197
+Overall transpose fraction        :          0.45871
+
+
+real	0m13.070s
+user	0m41.428s
+sys	0m3.864s
+
+real	0m13.061s
+user	0m40.994s
+sys	0m4.356s
+
+real	0m13.063s
+user	0m41.030s
+sys	0m3.919s
+[PARSEC] [----------    End of output    ----------]
+
+real	0m13.063s
+user	0m41.023s
+sys	0m4.235s
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1092327
+Step 2:  1414891
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   629863
+Step 4:  1114811
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   620693
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4873920        2342883       0.48070
+
+                 TIMING INFORMATION
+Start time                        : 1673826632669407
+Initialization finish time        : 1673826640912999
+Overall finish time               : 1673826645786919
+Total time with initialization    :         13117512
+Total time without initialization :          4873920
+Overall transpose time            :          2342883
+Overall transpose fraction        :          0.48070
+
+[PARSEC] Done.
+[PARSEC] Done.
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 1:  1057639
+FFt1DOnce: iter_num = 114688
+Step 2:  1447348
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   624763
+Step 4:  1171958
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   607168
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4911122        2289570       0.46620
+
+                 TIMING INFORMATION
+Start time                        : 1673826632669402
+Initialization finish time        : 1673826640911281
+Overall finish time               : 1673826645822403
+Total time with initialization    :         13153001
+Total time without initialization :          4911122
+Overall transpose time            :          2289570
+Overall transpose fraction        :          0.46620
+
+
+real	0m13.184s
+user	0m42.426s
+sys	0m4.267s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 8388608
+Transpose: iter_num = 4194304
+Transpose: iter_num = 12582912
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 1:   929672
+Transpose: iter_num = 0
+Step 2:  1514126
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   503472
+Transpose: iter_num = 0
+Step 4:  1217539
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   467118
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4632892        1900262       0.41017
+
+                 TIMING INFORMATION
+Start time                        : 1673826632669444
+Initialization finish time        : 1673826641210756
+Overall finish time               : 1673826645843648
+Total time with initialization    :         13174204
+Total time without initialization :          4632892
+Overall transpose time            :          1900262
+Overall transpose fraction        :          0.41017
+
+
+real	0m13.192s
+user	0m42.617s
+sys	0m3.980s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m13.210s
+user	0m40.486s
+sys	0m4.149s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1081935
+Transpose: iter_num = 0
+Step 2:  1468478
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   653545
+Transpose: iter_num = 0
+Step 4:  1121428
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   654212
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4981976        2389692       0.47967
+
+                 TIMING INFORMATION
+Start time                        : 1673826632669445
+Initialization finish time        : 1673826640910498
+Overall finish time               : 1673826645892474
+Total time with initialization    :         13223029
+Total time without initialization :          4981976
+Overall transpose time            :          2389692
+Overall transpose fraction        :          0.47967
+
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1111985
+Transpose: iter_num = 0
+Step 2:  1441797
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   657714
+Step 4:  1119623
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   658001
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4989260        2427700       0.48659
+
+                 TIMING INFORMATION
+Start time                        : 1673826632669433
+Initialization finish time        : 1673826640910470
+Overall finish time               : 1673826645899730
+Total time with initialization    :         13230297
+Total time without initialization :          4989260
+Overall transpose time            :          2427700
+Overall transpose fraction        :          0.48659
+
+
+real	0m13.266s
+user	0m43.282s
+sys	0m3.985s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m13.269s
+user	0m43.229s
+sys	0m4.336s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1056268
+Step 2:  1432121
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   587871
+Step 4:  1584901
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 25165824
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 5:   363653
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5024922        2007792       0.39957
+
+                 TIMING INFORMATION
+Start time                        : 1673826632669533
+Initialization finish time        : 1673826640952925
+Overall finish time               : 1673826645977847
+Total time with initialization    :         13308314
+Total time without initialization :          5024922
+Overall transpose time            :          2007792
+Overall transpose fraction        :          0.39957
+
+
+real	0m13.344s
+user	0m40.734s
+sys	0m4.301s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1105660
+Step 2:  1460717
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   758353
+Transpose: iter_num = 0
+Step 4:  1099216
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   687864
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5112417        2551877       0.49915
+
+                 TIMING INFORMATION
+Start time                        : 1673826632695564
+Initialization finish time        : 1673826640951991
+Overall finish time               : 1673826646064408
+Total time with initialization    :         13368844
+Total time without initialization :          5112417
+Overall transpose time            :          2551877
+Overall transpose fraction        :          0.49915
+
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1142127
+Step 2:  1426756
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   740534
+Transpose: iter_num = 0
+Step 4:  1108606
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   676063
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5100184        2558724       0.50169
+
+                 TIMING INFORMATION
+Start time                        : 1673826632695652
+Initialization finish time        : 1673826640965277
+Overall finish time               : 1673826646065461
+Total time with initialization    :         13369809
+Total time without initialization :          5100184
+Overall transpose time            :          2558724
+Overall transpose fraction        :          0.50169
+
+
+real	0m13.403s
+user	0m44.639s
+sys	0m3.905s
+
+real	0m13.406s
+user	0m43.995s
+sys	0m4.405s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 12582912
+Transpose: iter_num = 4194304
+Transpose: iter_num = 16777216
+Transpose: iter_num = 8388608
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1080004
+Transpose: iter_num = 0
+Step 2:  1577840
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   868356
+Step 4:  1136087
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   705317
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5377228        2653677       0.49350
+
+                 TIMING INFORMATION
+Start time                        : 1673826632684525
+Initialization finish time        : 1673826640923039
+Overall finish time               : 1673826646300267
+Total time with initialization    :         13615742
+Total time without initialization :          5377228
+Overall transpose time            :          2653677
+Overall transpose fraction        :          0.49350
+
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 8388608
+Transpose: iter_num = 4194304
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 25165824
+Transpose: iter_num = 20971520
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 29360128
+Step 1:  1218526
+Step 2:  1442808
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   875386
+Transpose: iter_num = 0
+Step 4:  1127222
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   710570
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5375783        2804482       0.52169
+
+                 TIMING INFORMATION
+Start time                        : 1673826632690017
+Initialization finish time        : 1673826640927573
+Overall finish time               : 1673826646303356
+Total time with initialization    :         13613339
+Total time without initialization :          5375783
+Overall transpose time            :          2804482
+Overall transpose fraction        :          0.52169
+
+
+real	0m13.649s
+user	0m46.198s
+sys	0m3.731s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+
+real	0m13.647s
+user	0m45.651s
+sys	0m4.675s
+[PARSEC] Done.
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fft
+
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Benchmarks to run:  splash2x.fft
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Benchmarks to run:  splash2x.fft
+
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Keeping old run directory.
+
+
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Benchmarks to run:  splash2x.fft
+
+
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Keeping old run directory.
+
+
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Benchmarks to run:  splash2x.fft
+[PARSEC] Benchmarks to run:  splash2x.fft
+
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+
+[PARSEC] Keeping old run directory.
+
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Benchmarks to run:  splash2x.fft
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Benchmarks to run:  splash2x.fft
+
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Benchmarks to run:  splash2x.fft
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [========== Running benchmark splash2x.fft [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/run.sh 8 native':
+Generating input file ...
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/kernels/fft/inst/amd64-linux.gcc-pthreads/bin/fft -m28 -p8:
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 12582912
+Transpose: iter_num = 8388608
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 1:   597119
+Transpose: iter_num = 0
+Step 2:  1514497
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   410656
+Step 4:  1164350
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   347377
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4034118        1355152       0.33592
+
+                 TIMING INFORMATION
+Start time                        : 1673826650218382
+Initialization finish time        : 1673826658328340
+Overall finish time               : 1673826662362458
+Total time with initialization    :         12144076
+Total time without initialization :          4034118
+Overall transpose time            :          1355152
+Overall transpose fraction        :          0.33592
+
+
+real	0m12.168s
+user	0m37.087s
+sys	0m2.525s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 12582912
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 25165824
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 29360128
+Step 1:   732877
+Transpose: iter_num = 0
+Step 2:  1591720
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 25165824
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 3:   339303
+Step 4:  1215648
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 25165824
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 5:   337677
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4218033        1409857       0.33425
+
+                 TIMING INFORMATION
+Start time                        : 1673826650222207
+Initialization finish time        : 1673826658336058
+Overall finish time               : 1673826662554091
+Total time with initialization    :         12331884
+Total time without initialization :          4218033
+Overall transpose time            :          1409857
+Overall transpose fraction        :          0.33425
+
+
+real	0m12.354s
+user	0m38.080s
+sys	0m2.522s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 12582912
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:   779082
+Transpose: iter_num = 0
+Step 2:  1547451
+Transpose: iter_num = 4194304
+Transpose: iter_num = 12582912
+Transpose: iter_num = 8388608
+Transpose: iter_num = 25165824
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 3:   391888
+Step 4:  1216599
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 12582912
+Transpose: iter_num = 8388608
+Transpose: iter_num = 25165824
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 5:   362198
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4297583        1533168       0.35675
+
+                 TIMING INFORMATION
+Start time                        : 1673826650227838
+Initialization finish time        : 1673826658338186
+Overall finish time               : 1673826662635769
+Total time with initialization    :         12407931
+Total time without initialization :          4297583
+Overall transpose time            :          1533168
+Overall transpose fraction        :          0.35675
+
+
+real	0m12.431s
+user	0m38.207s
+sys	0m2.512s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 16777216
+Transpose: iter_num = 29360128
+Step 1:   648568
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 0
+Step 2:  1627404
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Transpose: iter_num = 25165824
+Step 3:   304589
+Step 4:  1464013
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 16777216
+Transpose: iter_num = 12582912
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Transpose: iter_num = 25165824
+Step 5:   256739
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4337401        1209896       0.27894
+
+                 TIMING INFORMATION
+Start time                        : 1673826650212618
+Initialization finish time        : 1673826658697221
+Overall finish time               : 1673826663034622
+Total time with initialization    :         12822004
+Total time without initialization :          4337401
+Overall transpose time            :          1209896
+Overall transpose fraction        :          0.27894
+
+
+real	0m12.851s
+user	0m36.570s
+sys	0m4.092s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 1:   631838
+Step 2:  1575894
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 16777216
+Transpose: iter_num = 12582912
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   277343
+Step 4:  1422551
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 16777216
+Transpose: iter_num = 12582912
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   310888
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4224450        1220069       0.28881
+
+                 TIMING INFORMATION
+Start time                        : 1673826650124308
+Initialization finish time        : 1673826658975406
+Overall finish time               : 1673826663199856
+Total time with initialization    :         13075548
+Total time without initialization :          4224450
+Overall transpose time            :          1220069
+Overall transpose fraction        :          0.28881
+
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 25165824
+Transpose: iter_num = 16777216
+Transpose: iter_num = 12582912
+Transpose: iter_num = 8388608
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 1:   624203
+Transpose: iter_num = 0
+Step 2:  1488139
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 20971520
+Transpose: iter_num = 16777216
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   332573
+Step 4:  1528779
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 20971520
+Transpose: iter_num = 16777216
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   278602
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4252371        1235378       0.29052
+
+                 TIMING INFORMATION
+Start time                        : 1673826650222002
+Initialization finish time        : 1673826658965139
+Overall finish time               : 1673826663217510
+Total time with initialization    :         12995508
+Total time without initialization :          4252371
+Overall transpose time            :          1235378
+Overall transpose fraction        :          0.29052
+
+
+real	0m13.106s
+user	0m38.077s
+sys	0m2.514s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m13.025s
+user	0m37.259s
+sys	0m2.935s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 29360128
+Step 1:   413444
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 16777216
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 0
+Step 2:  1933204
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 29360128
+Step 3:   265838
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Step 4:  1660141
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 16777216
+Transpose: iter_num = 8388608
+Transpose: iter_num = 29360128
+Transpose: iter_num = 12582912
+Step 5:   152811
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4605893         832093       0.18066
+
+                 TIMING INFORMATION
+Start time                        : 1673826650222015
+Initialization finish time        : 1673826658645599
+Overall finish time               : 1673826663251492
+Total time with initialization    :         13029477
+Total time without initialization :          4605893
+Overall transpose time            :           832093
+Overall transpose fraction        :          0.18066
+
+
+real	0m13.056s
+user	0m37.366s
+sys	0m4.287s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 16777216
+Transpose: iter_num = 12582912
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 1:   782420
+Step 2:  1341829
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 16777216
+Transpose: iter_num = 12582912
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Transpose: iter_num = 20971520
+Step 3:   404675
+Step 4:  1020166
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 16777216
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 25165824
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 5:   324969
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           3891586        1512064       0.38855
+
+                 TIMING INFORMATION
+Start time                        : 1673826650224217
+Initialization finish time        : 1673826659568117
+Overall finish time               : 1673826663459703
+Total time with initialization    :         13235486
+Total time without initialization :          3891586
+Overall transpose time            :          1512064
+Overall transpose fraction        :          0.38855
+
+
+real	0m13.258s
+user	0m35.046s
+sys	0m3.654s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 25165824
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 1:   984891
+Step 2:  1524755
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   588319
+Step 4:  1343986
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 25165824
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 5:   261731
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           4704161        1834941       0.39007
+
+                 TIMING INFORMATION
+Start time                        : 1673826650158035
+Initialization finish time        : 1673826659066124
+Overall finish time               : 1673826663770285
+Total time with initialization    :         13612250
+Total time without initialization :          4704161
+Overall transpose time            :          1834941
+Overall transpose fraction        :          0.39007
+
+
+real	0m13.645s
+user	0m41.097s
+sys	0m2.413s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 8388608
+Transpose: iter_num = 4194304
+Transpose: iter_num = 16777216
+Transpose: iter_num = 12582912
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 1:   655635
+Step 2:  1402348
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   358751
+Step 4:  1219167
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   325892
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           3982556        1340278       0.33654
+
+                 TIMING INFORMATION
+Start time                        : 1673826650217241
+Initialization finish time        : 1673826660018449
+Overall finish time               : 1673826664001005
+Total time with initialization    :         13783764
+Total time without initialization :          3982556
+Overall transpose time            :          1340278
+Overall transpose fraction        :          0.33654
+
+
+real	0m13.815s
+user	0m37.579s
+sys	0m2.771s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 29360128
+Step 1:  1146768
+Step 2:  1605365
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   651581
+Transpose: iter_num = 0
+Step 4:  1145853
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   644726
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5194621        2443075       0.47031
+
+                 TIMING INFORMATION
+Start time                        : 1673826650227723
+Initialization finish time        : 1673826659070758
+Overall finish time               : 1673826664265379
+Total time with initialization    :         14037656
+Total time without initialization :          5194621
+Overall transpose time            :          2443075
+Overall transpose fraction        :          0.47031
+
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1109297
+Transpose: iter_num = 0
+Step 2:  1611478
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   659481
+Step 4:  1237304
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   630118
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5249548        2398896       0.45697
+
+                 TIMING INFORMATION
+Start time                        : 1673826650189475
+Initialization finish time        : 1673826659021707
+Overall finish time               : 1673826664271255
+Total time with initialization    :         14081780
+Total time without initialization :          5249548
+Overall transpose time            :          2398896
+Overall transpose fraction        :          0.45697
+
+
+real	0m14.071s
+user	0m44.859s
+sys	0m4.867s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m14.117s
+user	0m45.840s
+sys	0m3.973s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 29360128
+Step 1:  1223428
+Transpose: iter_num = 0
+Step 2:  1518956
+Transpose: iter_num = 8388608
+Transpose: iter_num = 4194304
+Transpose: iter_num = 16777216
+Transpose: iter_num = 12582912
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   761306
+Transpose: iter_num = 0
+Step 4:  1161279
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   664198
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5329277        2648932       0.49705
+
+                 TIMING INFORMATION
+Start time                        : 1673826650188676
+Initialization finish time        : 1673826659032531
+Overall finish time               : 1673826664361808
+Total time with initialization    :         14173132
+Total time without initialization :          5329277
+Overall transpose time            :          2648932
+Overall transpose fraction        :          0.49705
+
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 16777216
+FFt1DOnce: iter_num = 114688
+Transpose: iter_num = 12582912
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Transpose: iter_num = 25165824
+Step 1:  1139078
+Transpose: iter_num = 0
+Step 2:  1682081
+Transpose: iter_num = 16777216
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   679147
+Transpose: iter_num = 0
+Step 4:  1186585
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 16777216
+Transpose: iter_num = 12582912
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   624817
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5342742        2443042       0.45726
+
+                 TIMING INFORMATION
+Start time                        : 1673826650180561
+Initialization finish time        : 1673826659020630
+Overall finish time               : 1673826664363372
+Total time with initialization    :         14182811
+Total time without initialization :          5342742
+Overall transpose time            :          2443042
+Overall transpose fraction        :          0.45726
+
+
+real	0m14.209s
+user	0m45.364s
+sys	0m5.166s
+
+real	0m14.221s
+user	0m44.502s
+sys	0m4.349s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1175605
+Step 2:  1564612
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 25165824
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 3:   912875
+Transpose: iter_num = 0
+Step 4:  1224032
+Transpose: iter_num = 8388608
+Transpose: iter_num = 4194304
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 25165824
+Transpose: iter_num = 20971520
+Transpose: iter_num = 29360128
+Step 5:   624361
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5503424        2712841       0.49294
+
+                 TIMING INFORMATION
+Start time                        : 1673826650143117
+Initialization finish time        : 1673826658990293
+Overall finish time               : 1673826664493717
+Total time with initialization    :         14350600
+Total time without initialization :          5503424
+Overall transpose time            :          2712841
+Overall transpose fraction        :          0.49294
+
+
+real	0m14.406s
+user	0m48.142s
+sys	0m3.696s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+FFT with Blocking Transpose
+   268435456 Complex Doubles
+   8 Processors
+   65536 Cache lines
+   16 Byte line size
+   4096 Bytes per page
+
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+iter_num = 2048
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+FFt1DOnce: iter_num = 114688
+Step 1:  1188928
+Transpose: iter_num = 0
+Step 2:  1610997
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 3:   843132
+Step 4:  1240117
+Transpose: iter_num = 0
+Transpose: iter_num = 4194304
+Transpose: iter_num = 8388608
+Transpose: iter_num = 12582912
+Transpose: iter_num = 16777216
+Transpose: iter_num = 20971520
+Transpose: iter_num = 25165824
+Transpose: iter_num = 29360128
+Step 5:   607031
+
+                 PROCESS STATISTICS
+            Computation      Transpose     Transpose
+ Proc          Time            Time        Fraction
+    0           5491730        2639091       0.48056
+
+                 TIMING INFORMATION
+Start time                        : 1673826650211923
+Initialization finish time        : 1673826659067841
+Overall finish time               : 1673826664559571
+Total time with initialization    :         14347648
+Total time without initialization :          5491730
+Overall transpose time            :          2639091
+Overall transpose fraction        :          0.48056
+
+
+real	0m14.371s
+user	0m46.787s
+sys	0m5.104s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+01/16/23 00:51:04  1673826664.585430845

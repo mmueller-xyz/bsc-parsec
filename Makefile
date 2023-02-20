@@ -1,0 +1,136 @@
+threads := 4 8 16 32 64 128 256
+partition := zen3_0512
+qos := zen3_0512
+time := "10:00"
+mail := "e11810852@student.tuwien.ac.at"
+srun := srun
+parsecmgmt := $(HOME)/Benchmarks/parsec/bin/parsecmgmt
+input := native
+configurations:= blackscholes bodytrack fmm fft barnes ocean_cp ocean_ncp radiosity raytrace volrend water_nsquared water_spatial
+
+all: $(configurations)
+
+# Number of cpus allocated to each Benchmark
+  %4.slurm: CORES_PER_TASK =   4
+  %8.slurm: CORES_PER_TASK =   8
+ %16.slurm: CORES_PER_TASK =  16
+ %32.slurm: CORES_PER_TASK =  32
+ %64.slurm: CORES_PER_TASK =  64
+%128.slurm: CORES_PER_TASK = 128
+%256.slurm: CORES_PER_TASK = 256
+
+# Number of tasks running at the same time
+  %4.slurm: TASKS = 32
+  %8.slurm: TASKS = 16
+ %16.slurm: TASKS =  8
+ %32.slurm: TASKS =  4
+ %64.slurm: TASKS =  2
+%128.slurm: TASKS =  1
+%256.slurm: TASKS =  1
+
+# Number of benchmark iterations
+  %4.slurm: RUNS = 1
+  %8.slurm: RUNS = 2
+ %16.slurm: RUNS = 4
+ %32.slurm: RUNS = 8
+ %64.slurm: RUNS = 16
+%128.slurm: RUNS = 32
+%256.slurm: RUNS = 32
+
+%.slurm:
+	@echo "#!/bin/bash" > $@
+	@echo "#SBATCH --job-name '$(PACKAGE)_$(CORES_PER_TASK)_$(CONFIG)' " >> $@
+	@echo "#SBATCH --output out/$(PACKAGE)_$(CORES_PER_TASK)_$(CONFIG)_%j.out" >> $@
+	@echo "#SBATCH --nodes 1" >> $@
+	@echo "#SBATCH --ntasks $(TASKS)" >> $@
+	@echo "#SBATCH --cpus-per-task $(CORES_PER_TASK)" >> $@
+	@echo "#SBATCH --profile=all" >> $@
+	@echo "#SBATCH --partition=$(partition)" >> $@
+	@echo "#SBATCH --qos $(qos)" >> $@
+	@echo "#SBATCH --time $(time)" >> $@
+	@echo "#SBATCH --mail-type=ALL" >> $@
+	@echo "#SBATCH --mail-user=$(mail)" >> $@
+	@echo "hostname" >> $@
+	@echo "echo Testing $(PACKAGE) $(RUNS) times on $(CORES_PER_TASK) cores using input size:$(input)" >> $@
+	@echo "date \"+%D %T  %s.%N\"" >> $@
+	@for k in {1..$(RUNS)}; do \
+		for i in {1..$(TASKS)}; do \
+			echo "/home/fs71695/maxmue/Benchmarks/parsec/bin/parsecmgmt -k -a run -c $(CONFIG)  -i $(input) -n $(CORES_PER_TASK) -p $(PACKAGE) &" >> $@ ;\
+		done ;\
+		echo "wait" >> $@ ;\
+	done
+	@echo "date \"+%D %T  %s.%N\"" >> $@
+
+blackscholes: $(addsuffix .slurm,$(addprefix blackscholes-,$(threads)))
+blackscholes-%.slurm: PACKAGE=blackscholes
+blackscholes-%.slurm: CONFIG=gcc-openmp
+
+bodytrack: $(addsuffix .slurm,$(addprefix bodytrack-,$(threads)))
+bodytrack-%.slurm: PACKAGE=bodytrack
+bodytrack-%.slurm: CONFIG=gcc-openmp
+
+fft: $(addsuffix .slurm,$(addprefix fft-,$(threads)))
+fft-%.slurm: PACKAGE=splash2x.fft
+fft-%.slurm: CONFIG=gcc-pthreads
+
+fmm: $(addsuffix .slurm,$(addprefix fmm-,$(threads)))
+fmm-%.slurm: PACKAGE=splash2x.fmm
+fmm-%.slurm: CONFIG=gcc-pthreads
+
+barnes: $(addsuffix .slurm,$(addprefix barnes-,$(threads)))
+barnes-%.slurm: PACKAGE=splash2x.barnes
+barnes-%.slurm: CONFIG=gcc-pthreads
+
+
+ocean_cp: $(addsuffix .slurm,$(addprefix ocean_cp-,$(threads)))
+ocean_cp-%.slurm: PACKAGE=splash2x.ocean_cp
+ocean_cp-%.slurm: CONFIG=gcc-pthreads
+
+
+ocean_ncp: $(addsuffix .slurm,$(addprefix ocean_ncp-,$(threads)))
+ocean_ncp-%.slurm: PACKAGE=splash2x.ocean_ncp
+ocean_ncp-%.slurm: CONFIG=gcc-pthreads
+
+
+radiosity: $(addsuffix .slurm,$(addprefix radiosity-,$(threads)))
+radiosity-%.slurm: PACKAGE=splash2x.radiosity
+radiosity-%.slurm: CONFIG=gcc-pthreads
+radiosity-%.slurm: time="90:00"
+
+
+raytrace: $(addsuffix .slurm,$(addprefix raytrace-,$(threads)))
+raytrace-%.slurm: PACKAGE=splash2x.raytrace
+raytrace-%.slurm: CONFIG=gcc-pthreads
+raytrace-%.slurm: time="90:00"
+
+
+volrend: $(addsuffix .slurm,$(addprefix volrend-,$(threads)))
+volrend-%.slurm: PACKAGE=splash2x.volrend
+volrend-%.slurm: CONFIG=gcc-pthreads
+volrend-%.slurm: time="90:00"
+
+water_nsquared: $(addsuffix .slurm,$(addprefix water_nsquared-,$(threads)))
+water_nsquared-%.slurm: PACKAGE=splash2x.water_nsquared
+water_nsquared-%.slurm: CONFIG=gcc-pthreads
+
+
+water_spatial: $(addsuffix .slurm,$(addprefix water_spatial-,$(threads)))
+water_spatial-%.slurm: PACKAGE=splash2x.water_spatial
+water_spatial-%.slurm: CONFIG=gcc-pthreads
+water_spatial-%.slurm: time="90:00"
+
+srun-blackscholes:
+	for f in $(shell ls .\/blackscholes*.slurm); do sbatch $${f}; done
+srun-fmm:
+	for f in $(shell ls .\/fmm*.slurm); do sbatch $${f}; done
+srun-fft:
+	for f in $(shell ls .\/fft*.slurm); do sbatch $${f}; done
+srun:
+	for f in $(shell ls .\/*.slurm); do sbatch $${f}; done
+
+.PHONY: clean% $(configurations)
+clean-jobs:
+	rm -rf *.slurm
+clean-outfiles: 
+	rm -rf out/*.out
+clean: clean-jobs

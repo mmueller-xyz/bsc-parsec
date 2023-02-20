@@ -1,0 +1,982 @@
+n3508-043
+Testing splash2x.barnes 4 times on 16 cores using input size:native
+01/16/23 00:18:29  1673824709.362356955
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+
+Generating input file input_16...
+Generating input file input_16...
+Generating input file input_16...
+Generating input file input_16...
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+Generating input file input_16...
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] [---------- Beginning of output ----------]
+
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Keeping old run directory.
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 1288556 Floating point exception(core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16
+
+real	0m0.295s
+user	0m0.005s
+sys	0m0.003s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824712630941
+COMPUTEEND    = 1673824719813933
+COMPUTETIME   =      7182992
+TRACKTIME     =      3482213
+PARTITIONTIME =        30486	 0.01
+TREEBUILDTIME =       173668	 0.05
+FORCECALCTIME =      3131042	 0.90
+RESTTIME      =       147017	 0.04
+
+real	0m7.915s
+user	1m47.828s
+sys	0m0.195s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824712641217
+COMPUTEEND    = 1673824722997848
+COMPUTETIME   =     10356631
+TRACKTIME     =      5499053
+PARTITIONTIME =        43021	 0.01
+TREEBUILDTIME =       221772	 0.04
+FORCECALCTIME =      5038021	 0.92
+RESTTIME      =       196239	 0.04
+
+real	0m11.071s
+user	2m22.248s
+sys	0m0.180s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824712630236
+COMPUTEEND    = 1673824723128015
+COMPUTETIME   =     10497779
+TRACKTIME     =      5317320
+PARTITIONTIME =        36796	 0.01
+TREEBUILDTIME =       229100	 0.04
+FORCECALCTIME =      4402654	 0.83
+RESTTIME      =       648770	 0.12
+
+real	0m11.213s
+user	2m20.630s
+sys	0m0.208s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824712677518
+COMPUTEEND    = 1673824724110558
+COMPUTETIME   =     11433040
+TRACKTIME     =      5274087
+PARTITIONTIME =        32672	 0.01
+TREEBUILDTIME =       235205	 0.04
+FORCECALCTIME =      4382033	 0.83
+RESTTIME      =       624177	 0.12
+
+real	0m12.213s
+user	2m39.227s
+sys	0m0.242s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824712677436
+COMPUTEEND    = 1673824724261075
+COMPUTETIME   =     11583639
+TRACKTIME     =      5397990
+PARTITIONTIME =        64007	 0.01
+TREEBUILDTIME =       297083	 0.06
+FORCECALCTIME =      4313332	 0.80
+RESTTIME      =       723568	 0.13
+
+real	0m12.357s
+user	2m36.138s
+sys	0m0.274s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824712676590
+COMPUTEEND    = 1673824724290479
+COMPUTETIME   =     11613889
+TRACKTIME     =      5314370
+PARTITIONTIME =        34455	 0.01
+TREEBUILDTIME =       286589	 0.05
+FORCECALCTIME =      3212230	 0.60
+RESTTIME      =      1781096	 0.34
+
+real	0m12.394s
+user	2m37.305s
+sys	0m0.291s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824712676239
+COMPUTEEND    = 1673824724308011
+COMPUTETIME   =     11631772
+TRACKTIME     =      5456566
+PARTITIONTIME =        63029	 0.01
+TREEBUILDTIME =       316362	 0.06
+FORCECALCTIME =      4580511	 0.84
+RESTTIME      =       496664	 0.09
+
+real	0m12.409s
+user	2m38.558s
+sys	0m0.265s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] [---------- Beginning of output ----------]
+
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Generating input file input_16...
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] Keeping old run directory.
+Generating input file input_16...
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Generating input file input_16...
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Generating input file input_16...
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 1293034 Floating point exception(core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16
+
+real	0m0.244s
+user	0m0.002s
+sys	0m0.007s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 1293046 Floating point exception(core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16
+
+real	0m0.248s
+user	0m0.004s
+sys	0m0.006s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824727253912
+COMPUTEEND    = 1673824734337242
+COMPUTETIME   =      7083330
+TRACKTIME     =      3392783
+PARTITIONTIME =        34431	 0.01
+TREEBUILDTIME =       189460	 0.06
+FORCECALCTIME =      3117743	 0.92
+RESTTIME      =        51149	 0.02
+
+real	0m7.808s
+user	1m48.032s
+sys	0m0.186s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824727216988
+COMPUTEEND    = 1673824734503191
+COMPUTETIME   =      7286203
+TRACKTIME     =      3394039
+PARTITIONTIME =        32188	 0.01
+TREEBUILDTIME =       187534	 0.06
+FORCECALCTIME =      3128086	 0.92
+RESTTIME      =        46231	 0.01
+
+real	0m8.025s
+user	1m49.841s
+sys	0m0.168s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824727180574
+COMPUTEEND    = 1673824735201294
+COMPUTETIME   =      8020720
+TRACKTIME     =      3837494
+PARTITIONTIME =        33380	 0.01
+TREEBUILDTIME =       212624	 0.06
+FORCECALCTIME =      3449394	 0.90
+RESTTIME      =       142096	 0.04
+
+real	0m8.749s
+user	1m57.656s
+sys	0m0.223s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824727245654
+COMPUTEEND    = 1673824735782957
+COMPUTETIME   =      8537303
+TRACKTIME     =      4270221
+PARTITIONTIME =        33778	 0.01
+TREEBUILDTIME =       229151	 0.05
+FORCECALCTIME =      3516672	 0.82
+RESTTIME      =       490620	 0.11
+
+real	0m9.258s
+user	2m0.450s
+sys	0m0.192s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824727292483
+COMPUTEEND    = 1673824737018806
+COMPUTETIME   =      9726323
+TRACKTIME     =      4225478
+PARTITIONTIME =        42265	 0.01
+TREEBUILDTIME =       256976	 0.06
+FORCECALCTIME =      3334283	 0.79
+RESTTIME      =       591954	 0.14
+
+real	0m10.490s
+user	2m13.536s
+sys	0m0.243s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824727275698
+COMPUTEEND    = 1673824737091549
+COMPUTETIME   =      9815851
+TRACKTIME     =      4336809
+PARTITIONTIME =        39224	 0.01
+TREEBUILDTIME =       281369	 0.06
+FORCECALCTIME =      3576886	 0.82
+RESTTIME      =       439330	 0.10
+
+real	0m10.574s
+user	2m13.068s
+sys	0m0.266s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Keeping old run directory.
+
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] [---------- Beginning of output ----------]
+
+[PARSEC] Keeping old run directory.
+Generating input file input_16...
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Generating input file input_16...
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Generating input file input_16...
+Generating input file input_16...
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+
+
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Generating input file input_16...
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 1297566 Floating point exception(core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 1297565 Floating point exception(core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16
+
+real	0m0.252s
+user	0m0.003s
+sys	0m0.005s
+
+real	0m0.252s
+user	0m0.004s
+sys	0m0.003s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824739973682
+COMPUTEEND    = 1673824747308777
+COMPUTETIME   =      7335095
+TRACKTIME     =      3390152
+PARTITIONTIME =        34571	 0.01
+TREEBUILDTIME =       186171	 0.05
+FORCECALCTIME =      3117963	 0.92
+RESTTIME      =        51447	 0.02
+
+real	0m8.047s
+user	1m48.750s
+sys	0m0.204s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824739987070
+COMPUTEEND    = 1673824748766504
+COMPUTETIME   =      8779434
+TRACKTIME     =      4126862
+PARTITIONTIME =        30844	 0.01
+TREEBUILDTIME =       213053	 0.05
+FORCECALCTIME =      3565888	 0.86
+RESTTIME      =       317077	 0.08
+
+real	0m9.514s
+user	2m4.957s
+sys	0m0.198s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824740103461
+COMPUTEEND    = 1673824748860166
+COMPUTETIME   =      8756705
+TRACKTIME     =      4136545
+PARTITIONTIME =        48360	 0.01
+TREEBUILDTIME =       247894	 0.06
+FORCECALCTIME =      3324892	 0.80
+RESTTIME      =       515399	 0.12
+
+real	0m9.572s
+user	2m0.182s
+sys	0m0.229s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824740002928
+COMPUTEEND    = 1673824748951240
+COMPUTETIME   =      8948312
+TRACKTIME     =      4048753
+PARTITIONTIME =        41616	 0.01
+TREEBUILDTIME =       244385	 0.06
+FORCECALCTIME =      3537063	 0.87
+RESTTIME      =       225689	 0.06
+
+real	0m9.706s
+user	2m6.122s
+sys	0m0.181s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824739978368
+COMPUTEEND    = 1673824749332326
+COMPUTETIME   =      9353958
+TRACKTIME     =      4301176
+PARTITIONTIME =        35888	 0.01
+TREEBUILDTIME =       211843	 0.05
+FORCECALCTIME =      3885359	 0.90
+RESTTIME      =       168086	 0.04
+
+real	0m10.089s
+user	2m5.671s
+sys	0m0.184s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824740025049
+COMPUTEEND    = 1673824749788426
+COMPUTETIME   =      9763377
+TRACKTIME     =      4181040
+PARTITIONTIME =        39453	 0.01
+TREEBUILDTIME =       231733	 0.06
+FORCECALCTIME =      3807821	 0.91
+RESTTIME      =       102033	 0.02
+
+real	0m10.534s
+user	2m10.137s
+sys	0m0.246s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+
+
+
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Generating input file input_16...
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] Keeping old run directory.
+Generating input file input_16...
+Generating input file input_16...
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.barnes
+Generating input file input_16...
+
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+[PARSEC] Benchmarks to run:  splash2x.barnes
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+[PARSEC] Keeping old run directory.
+Generating input file input_16...
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.barnes
+
+[PARSEC] [========== Running benchmark splash2x.barnes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16:
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 1302023 Segmentation fault      (core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/barnes/inst/amd64-linux.gcc-pthreads/bin/barnes 16 < input_16
+
+real	0m0.329s
+user	0m0.076s
+sys	0m0.010s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824752525810
+COMPUTEEND    = 1673824763392106
+COMPUTETIME   =     10866296
+TRACKTIME     =      5338013
+PARTITIONTIME =        28744	 0.01
+TREEBUILDTIME =       206183	 0.04
+FORCECALCTIME =      4334400	 0.81
+RESTTIME      =       768686	 0.14
+
+real	0m11.595s
+user	2m24.691s
+sys	0m0.197s
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824752555416
+COMPUTEEND    = 1673824763397848
+COMPUTETIME   =     10842432
+TRACKTIME     =      5396676
+PARTITIONTIME =        38695	 0.01
+TREEBUILDTIME =       194610	 0.04
+FORCECALCTIME =      4983855	 0.92
+RESTTIME      =       179516	 0.03
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+
+real	0m11.597s
+user	2m22.497s
+sys	0m0.201s
+[PARSEC] Done.
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824752559817
+COMPUTEEND    = 1673824763470200
+COMPUTETIME   =     10910383
+TRACKTIME     =      5313770
+PARTITIONTIME =        29726	 0.01
+TREEBUILDTIME =       218418	 0.04
+FORCECALCTIME =      4066189	 0.77
+RESTTIME      =       999437	 0.19
+
+real	0m11.668s
+user	2m26.688s
+sys	0m0.212s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824752609038
+COMPUTEEND    = 1673824763690019
+COMPUTETIME   =     11080981
+TRACKTIME     =      5347117
+PARTITIONTIME =        53983	 0.01
+TREEBUILDTIME =       300733	 0.06
+FORCECALCTIME =      3820743	 0.71
+RESTTIME      =      1171658	 0.22
+
+real	0m11.883s
+user	2m24.163s
+sys	0m0.242s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824752652425
+COMPUTEEND    = 1673824763720293
+COMPUTETIME   =     11067868
+TRACKTIME     =      5296568
+PARTITIONTIME =        48497	 0.01
+TREEBUILDTIME =       337647	 0.06
+FORCECALCTIME =      3804703	 0.72
+RESTTIME      =      1105721	 0.21
+
+real	0m11.898s
+user	2m15.388s
+sys	0m0.296s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824752689936
+COMPUTEEND    = 1673824763748336
+COMPUTETIME   =     11058400
+TRACKTIME     =      5307490
+PARTITIONTIME =        70830	 0.01
+TREEBUILDTIME =       305943	 0.06
+FORCECALCTIME =      4546667	 0.86
+RESTTIME      =       384050	 0.07
+
+real	0m11.875s
+user	2m11.067s
+sys	0m0.267s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+		Hack code: Plummer model
+
+     nbody     dtime       eps       tol     dtout     tstop    fcells     NPROC
+   4194304   0.02500    0.0500      1.00     0.250     0.075      2.00        16
+
+COMPUTESTART  = 1673824752649450
+COMPUTEEND    = 1673824763859517
+COMPUTETIME   =     11210067
+TRACKTIME     =      5333279
+PARTITIONTIME =        42952	 0.01
+TREEBUILDTIME =       299117	 0.06
+FORCECALCTIME =      3216912	 0.60
+RESTTIME      =      1774298	 0.33
+
+real	0m12.044s
+user	2m20.761s
+sys	0m0.263s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+01/16/23 00:19:23  1673824763.879302720

@@ -1,0 +1,1988 @@
+n3501-057
+Testing splash2x.raytrace 1 times on 4 cores using input size:native
+01/24/23 16:49:39  1674575379.575197211
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+
+
+
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+
+
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+
+[PARSEC] Keeping old run directory.
+
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Generating input file ...
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+Generating input file ...
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+Generating input file ...
+
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Keeping old run directory.
+
+
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Keeping old run directory.
+
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Keeping old run directory.
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Keeping old run directory.
+
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] [---------- Beginning of output ----------]
+
+Uniform Hierarchy built.
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+Uniform Hierarchy built.
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+Uniform Hierarchy built.
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Uniform Hierarchy built.
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Keeping old run directory.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+
+
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Benchmarks to run:  splash2x.raytrace
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] [---------- Beginning of output ----------]
+
+
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.raytrace [1] ==========]
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] [---------- Beginning of output ----------]
+Uniform Hierarchy built.
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/run.sh 4 native':
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+[PARSEC] [---------- Beginning of output ----------]
+Uniform Hierarchy built.
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Uniform Hierarchy built.
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Uniform Hierarchy built.
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/raytrace/inst/amd64-linux.gcc-pthreads/bin/raytrace -s -p4 -a128 car.env:
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+Uniform Hierarchy built.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389031005
+        Overall end time       1674575419154315
+        Total time with initialization              30123310
+        Total time without initialization              30123236
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            30123216
+                   1            30122559
+                   2            30121872
+                   3            30123000
+
+
+              Max =             30123216
+              Min =             30121872
+              Avg =             30122661
+
+real	0m30.223s
+user	1m59.718s
+sys	0m0.081s
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389105884
+        Overall end time       1674575419177836
+        Total time with initialization              30071952
+        Total time without initialization              30071864
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            30071440
+                   1            30071266
+                   2            30071302
+                   3            30071762
+
+
+              Max =             30071762
+              Min =             30071266
+              Avg =             30071442
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+
+real	0m30.171s
+user	1m59.580s
+sys	0m0.064s
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389015457
+        Overall end time       1674575419257122
+        Total time with initialization              30241665
+        Total time without initialization              30241588
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            30241454
+                   1            30241363
+                   2            30241505
+                   3            30240040
+
+
+              Max =             30241505
+              Min =             30240040
+              Avg =             30241090
+
+real	0m30.327s
+user	2m0.161s
+sys	0m0.112s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389029603
+        Overall end time       1674575419397064
+        Total time with initialization              30367461
+        Total time without initialization              30367386
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            30366932
+                   1            30366574
+                   2            30367272
+                   3            30367298
+
+
+              Max =             30367298
+              Min =             30366574
+              Avg =             30367019
+
+real	0m30.450s
+user	2m0.689s
+sys	0m0.070s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389084332
+        Overall end time       1674575419459406
+        Total time with initialization              30375074
+        Total time without initialization              30374951
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            30374187
+                   1            30374050
+                   2            30374405
+                   3            30374643
+
+
+              Max =             30374643
+              Min =             30374050
+              Avg =             30374321
+
+real	0m30.467s
+user	2m0.700s
+sys	0m0.121s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389056225
+        Overall end time       1674575419496008
+        Total time with initialization              30439783
+        Total time without initialization              30439656
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            30439579
+                   1            30439598
+                   2            30439081
+                   3            30439046
+
+
+              Max =             30439598
+              Min =             30439046
+              Avg =             30439326
+
+real	0m30.524s
+user	2m0.947s
+sys	0m0.101s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389105501
+        Overall end time       1674575419564737
+        Total time with initialization              30459236
+        Total time without initialization              30459158
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            30459145
+                   1            30459021
+                   2            30458870
+                   3            30458383
+
+
+              Max =             30459145
+              Min =             30458383
+              Avg =             30458854
+
+real	0m30.554s
+user	2m1.057s
+sys	0m0.101s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389074726
+        Overall end time       1674575419577589
+        Total time with initialization              30502863
+        Total time without initialization              30502750
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            30502740
+                   1            30501367
+                   2            30502387
+                   3            30502074
+
+
+              Max =             30502740
+              Min =             30501367
+              Avg =             30502142
+
+real	0m30.589s
+user	2m1.206s
+sys	0m0.108s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389029792
+        Overall end time       1674575419886533
+        Total time with initialization              30856741
+        Total time without initialization              30856673
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            30856549
+                   1            30855329
+                   2            30856439
+                   3            30855756
+
+
+              Max =             30856549
+              Min =             30855329
+              Avg =             30856018
+
+real	0m30.955s
+user	2m2.615s
+sys	0m0.072s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389096504
+        Overall end time       1674575420051765
+        Total time with initialization              30955261
+        Total time without initialization              30954751
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            30954404
+                   1            30954188
+                   2            30954446
+                   3            30953376
+
+
+              Max =             30954446
+              Min =             30953376
+              Avg =             30954103
+
+real	0m31.044s
+user	2m2.987s
+sys	0m0.121s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575388998738
+        Overall end time       1674575420087484
+        Total time with initialization              31088746
+        Total time without initialization              31088663
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31087593
+                   1            31088610
+                   2            31088097
+                   3            31088288
+
+
+              Max =             31088610
+              Min =             31087593
+              Avg =             31088147
+
+real	0m31.221s
+user	2m3.331s
+sys	0m0.063s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389001183
+        Overall end time       1674575420130188
+        Total time with initialization              31129005
+        Total time without initialization              31128808
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31127697
+                   1            31128674
+                   2            31128506
+                   3            31128746
+
+
+              Max =             31128746
+              Min =             31127697
+              Avg =             31128405
+
+real	0m31.246s
+user	2m3.455s
+sys	0m0.104s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389092384
+        Overall end time       1674575420144150
+        Total time with initialization              31051766
+        Total time without initialization              31051547
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31051483
+                   1            31051353
+                   2            31049706
+                   3            31051335
+
+
+              Max =             31051483
+              Min =             31049706
+              Avg =             31050969
+
+real	0m31.153s
+user	2m3.125s
+sys	0m0.239s
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389022177
+        Overall end time       1674575420147099
+        Total time with initialization              31124922
+        Total time without initialization              31124784
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31124613
+                   1            31123842
+                   2            31124728
+                   3            31124161
+
+
+              Max =             31124728
+              Min =             31123842
+              Avg =             31124336
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+
+real	0m31.266s
+user	2m3.573s
+sys	0m0.190s
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389068982
+        Overall end time       1674575420149691
+        Total time with initialization              31080709
+        Total time without initialization              31080589
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31080499
+                   1            31080511
+                   2            31079994
+                   3            31080388
+
+
+              Max =             31080511
+              Min =             31079994
+              Avg =             31080348
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+
+real	0m31.166s
+user	2m3.473s
+sys	0m0.120s
+[PARSEC] Done.
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389016638
+        Overall end time       1674575420161543
+        Total time with initialization              31144905
+        Total time without initialization              31144831
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31144486
+                   1            31143887
+                   2            31144770
+                   3            31144569
+
+
+              Max =             31144770
+              Min =             31143887
+              Avg =             31144428
+
+real	0m31.234s
+user	2m3.762s
+sys	0m0.068s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575388996135
+        Overall end time       1674575420390635
+        Total time with initialization              31394500
+        Total time without initialization              31394394
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31394379
+                   1            31393569
+                   2            31394099
+                   3            31393809
+
+
+              Max =             31394379
+              Min =             31393569
+              Avg =             31393964
+
+real	0m31.509s
+user	2m4.582s
+sys	0m0.081s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575388998898
+        Overall end time       1674575420486766
+        Total time with initialization              31487868
+        Total time without initialization              31487742
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31486959
+                   1            31487667
+                   2            31487491
+                   3            31487478
+
+
+              Max =             31487667
+              Min =             31486959
+              Avg =             31487398
+
+real	0m31.598s
+user	2m4.851s
+sys	0m0.138s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389171241
+        Overall end time       1674575420502707
+        Total time with initialization              31331466
+        Total time without initialization              31331326
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31330904
+                   1            31330807
+                   2            31330791
+                   3            31331166
+
+
+              Max =             31331166
+              Min =             31330791
+              Avg =             31330917
+
+real	0m31.494s
+user	2m4.308s
+sys	0m0.230s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389006208
+        Overall end time       1674575420599412
+        Total time with initialization              31593204
+        Total time without initialization              31593050
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31593036
+                   1            31592401
+                   2            31592972
+                   3            31592714
+
+
+              Max =             31593036
+              Min =             31592401
+              Avg =             31592780
+
+real	0m31.707s
+user	2m5.307s
+sys	0m0.123s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389114156
+        Overall end time       1674575420667059
+        Total time with initialization              31552903
+        Total time without initialization              31552732
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            31552078
+                   1            31552084
+                   2            31552495
+                   3            31551411
+
+
+              Max =             31552495
+              Min =             31551411
+              Avg =             31552017
+
+real	0m31.659s
+user	2m5.097s
+sys	0m0.258s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389048481
+        Overall end time       1674575421167057
+        Total time with initialization              32118576
+        Total time without initialization              32118436
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            32117055
+                   1            32118320
+                   2            32118304
+                   3            32117691
+
+
+              Max =             32118320
+              Min =             32117055
+              Avg =             32117842
+
+real	0m32.287s
+user	2m7.422s
+sys	0m0.103s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389001044
+        Overall end time       1674575421387838
+        Total time with initialization              32386794
+        Total time without initialization              32386710
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            32385970
+                   1            32386664
+                   2            32386341
+                   3            32386113
+
+
+              Max =             32386664
+              Min =             32385970
+              Avg =             32386272
+
+real	0m32.500s
+user	2m8.494s
+sys	0m0.082s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389021677
+        Overall end time       1674575421604550
+        Total time with initialization              32582873
+        Total time without initialization              32582754
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            32582544
+                   1            32581831
+                   2            32582614
+                   3            32581568
+
+
+              Max =             32582614
+              Min =             32581568
+              Avg =             32582139
+
+real	0m32.721s
+user	2m9.218s
+sys	0m0.107s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389025708
+        Overall end time       1674575421653698
+        Total time with initialization              32627990
+        Total time without initialization              32627907
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            32627876
+                   1            32627524
+                   2            32627601
+                   3            32626857
+
+
+              Max =             32627876
+              Min =             32626857
+              Avg =             32627464
+
+real	0m32.750s
+user	2m9.354s
+sys	0m0.149s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389157751
+        Overall end time       1674575421938367
+        Total time with initialization              32780616
+        Total time without initialization              32780468
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            32778679
+                   1            32780075
+                   2            32780007
+                   3            32780297
+
+
+              Max =             32780297
+              Min =             32778679
+              Avg =             32779764
+
+real	0m32.961s
+user	2m9.956s
+sys	0m0.268s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389025064
+        Overall end time       1674575421988159
+        Total time with initialization              32963095
+        Total time without initialization              32962937
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            32962923
+                   1            32962554
+                   2            32962354
+                   3            32962490
+
+
+              Max =             32962923
+              Min =             32962354
+              Avg =             32962580
+
+real	0m33.064s
+user	2m10.721s
+sys	0m0.097s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389014655
+        Overall end time       1674575422173583
+        Total time with initialization              33158928
+        Total time without initialization              33158848
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            33158316
+                   1            33158789
+                   2            33158347
+                   3            33157939
+
+
+              Max =             33158789
+              Min =             33157939
+              Avg =             33158347
+
+real	0m33.293s
+user	2m11.538s
+sys	0m0.104s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389008829
+        Overall end time       1674575422259195
+        Total time with initialization              33250366
+        Total time without initialization              33250290
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            33250272
+                   1            33250203
+                   2            33249025
+                   3            33249041
+
+
+              Max =             33250272
+              Min =             33249025
+              Avg =             33249635
+
+real	0m33.378s
+user	2m11.887s
+sys	0m0.110s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575388997338
+        Overall end time       1674575422384106
+        Total time with initialization              33386768
+        Total time without initialization              33386637
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            33386574
+                   1            33385988
+                   2            33386610
+                   3            33386278
+
+
+              Max =             33386610
+              Min =             33385988
+              Avg =             33386362
+
+real	0m33.504s
+user	2m12.450s
+sys	0m0.103s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389006461
+        Overall end time       1674575422546596
+        Total time with initialization              33540135
+        Total time without initialization              33540051
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            33538894
+                   1            33539738
+                   2            33539596
+                   3            33539925
+
+
+              Max =             33539925
+              Min =             33538894
+              Avg =             33539538
+
+real	0m33.631s
+user	2m12.939s
+sys	0m0.153s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Number of processors:     	4
+Global shared memory size:	32 MB
+Samples per pixel:        	128
+
+Number of primitive objects: 	7629
+Number of primitive elements:	46423
+
+****** Hierarchial uniform grid memory allocation summary ******* 
+
+     < struct >:            < current >   < maximum >    < sizeof > 
+     <  bytes >:             <  bytes >   <   bytes >    <  bytes > 
+
+     grid:                       2880          2880           144 
+     hashtable entries:          3504          3504             8 
+     emptycell entries:           312           312             8 
+     voxel:                     93840         93840            40 
+     bintree_node:             567720        567720           120 
+
+     Totals:                   668256        668256      
+
+TIMING STATISTICS MEASURED BY MAIN PROCESS:
+        Overall start time         1674575389046551
+        Overall end time       1674575423160017
+        Total time with initialization              34113466
+        Total time without initialization              34113209
+
+
+
+PER-PROCESS STATISTICS:
+                Proc                Time
+                            Tracing Rays
+
+                   0            34112303
+                   1            34112165
+                   2            34112808
+                   3            34112779
+
+
+              Max =             34112808
+              Min =             34112165
+              Avg =             34112513
+
+real	0m34.277s
+user	2m15.294s
+sys	0m0.127s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+01/24/23 16:50:23  1674575423.170113250
