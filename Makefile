@@ -81,12 +81,12 @@ all: $(configurations)
 blackscholes: $(addsuffix .slurm,$(addprefix blackscholes-,$(threads)))
 blackscholes-%.slurm: PACKAGE=blackscholes
 blackscholes-%.slurm: CONFIG=gcc-openmp
-blackscholes-001%.slurm: time="30:00"
+blackscholes-001%.slurm: time="40:00"
 
 bodytrack: $(addsuffix .slurm,$(addprefix bodytrack-,$(threads)))
 bodytrack-%.slurm: PACKAGE=bodytrack
 bodytrack-%.slurm: CONFIG=gcc-openmp
-bodytrack-001.slurm: time="30:00"
+bodytrack-001.slurm: time="40:00"
 bodytrack-002.slurm: time="30:00"
 
 fft: $(addsuffix .slurm,$(addprefix fft-,$(threads)))
