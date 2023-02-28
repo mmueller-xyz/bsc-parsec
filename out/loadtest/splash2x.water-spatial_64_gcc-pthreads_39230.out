@@ -1,0 +1,2102 @@
+n3505-064
+Testing splash2x.water_spatial 16 times on 64 cores using input size:native
+01/24/23 17:33:58  1674578038.156266110
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578040673162
+COMPUTEEND = 1674578043450169
+COMPUTETIME (after initialization) = 2777007
+Measured Time (2nd timestep onward) = 1466068
+Intramolecular time only (2nd timestep onward) = 175275
+Intermolecular time only (2nd timestep onward) = 1289965
+Other time (2nd timestep onward) = 828
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.465s
+user	1m59.666s
+sys	0m0.252s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578040704215
+COMPUTEEND = 1674578043491027
+COMPUTETIME (after initialization) = 2786812
+Measured Time (2nd timestep onward) = 1474676
+Intramolecular time only (2nd timestep onward) = 152003
+Intermolecular time only (2nd timestep onward) = 1322243
+Other time (2nd timestep onward) = 430
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.506s
+user	1m53.758s
+sys	0m0.207s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578045122557
+COMPUTEEND = 1674578047875637
+COMPUTETIME (after initialization) = 2753080
+Measured Time (2nd timestep onward) = 1504962
+Intramolecular time only (2nd timestep onward) = 286055
+Intermolecular time only (2nd timestep onward) = 1218410
+Other time (2nd timestep onward) = 497
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.504s
+user	1m54.993s
+sys	0m0.358s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578045036236
+COMPUTEEND = 1674578047938242
+COMPUTETIME (after initialization) = 2902006
+Measured Time (2nd timestep onward) = 1585646
+Intramolecular time only (2nd timestep onward) = 152144
+Intermolecular time only (2nd timestep onward) = 1432679
+Other time (2nd timestep onward) = 823
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.564s
+user	2m12.518s
+sys	0m0.289s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578049563603
+COMPUTEEND = 1674578052311456
+COMPUTETIME (after initialization) = 2747853
+Measured Time (2nd timestep onward) = 1485698
+Intramolecular time only (2nd timestep onward) = 194990
+Intermolecular time only (2nd timestep onward) = 1290390
+Other time (2nd timestep onward) = 318
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.482s
+user	2m4.748s
+sys	0m0.242s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578049796021
+COMPUTEEND = 1674578052639074
+COMPUTETIME (after initialization) = 2843053
+Measured Time (2nd timestep onward) = 1557386
+Intramolecular time only (2nd timestep onward) = 203312
+Intermolecular time only (2nd timestep onward) = 1353070
+Other time (2nd timestep onward) = 1004
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.781s
+user	2m8.999s
+sys	0m0.518s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578054258112
+COMPUTEEND = 1674578056882606
+COMPUTETIME (after initialization) = 2624494
+Measured Time (2nd timestep onward) = 1428504
+Intramolecular time only (2nd timestep onward) = 151697
+Intermolecular time only (2nd timestep onward) = 1276374
+Other time (2nd timestep onward) = 433
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.286s
+user	2m4.149s
+sys	0m0.178s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578054259189
+COMPUTEEND = 1674578056919232
+COMPUTETIME (after initialization) = 2660043
+Measured Time (2nd timestep onward) = 1435791
+Intramolecular time only (2nd timestep onward) = 155930
+Intermolecular time only (2nd timestep onward) = 1279463
+Other time (2nd timestep onward) = 398
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.324s
+user	2m4.241s
+sys	0m0.223s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578058489724
+COMPUTEEND = 1674578061229635
+COMPUTETIME (after initialization) = 2739911
+Measured Time (2nd timestep onward) = 1488969
+Intramolecular time only (2nd timestep onward) = 166805
+Intermolecular time only (2nd timestep onward) = 1321651
+Other time (2nd timestep onward) = 513
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578058518133
+COMPUTEEND = 1674578061241635
+COMPUTETIME (after initialization) = 2723502
+Measured Time (2nd timestep onward) = 1482458
+Intramolecular time only (2nd timestep onward) = 178487
+Intermolecular time only (2nd timestep onward) = 1302301
+Other time (2nd timestep onward) = 1670
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.400s
+user	1m54.973s
+sys	0m0.218s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m3.390s
+user	2m8.609s
+sys	0m0.246s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+ERROR: Usage: water < infile, which must have 10 fields, see SPLASH documentation or comment at top of water.C
+Using 0 procs on 0 steps of 0 mols
+Other parameters:
+	TSTEP = 0.00e+00
+	NORDER = 0
+	NSAVE = 0
+	NRST = 0
+	NPRINT = 0
+	NFMC = 0
+	CUTOFF = 0.000000
+
+0 boxes with 0 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =        0
+NUMBER OF PROCESSORS       =        0
+TIME STEP                  = 0.00e+00 SEC
+ORDER USED TO SOLVE F=MA   =        0 
+NO. OF TIME STEPS          =        0 
+FREQUENCY OF DATA SAVING   =        0 
+FREQUENCY TO WRITE RST FILE=        0 
+xprocs = 1	yprocs = 1	zprocs = 0
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 59: 292266 Floating point exception(core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64
+
+real	0m0.288s
+user	0m0.003s
+sys	0m0.005s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578062988518
+COMPUTEEND = 1674578065660924
+COMPUTETIME (after initialization) = 2672406
+Measured Time (2nd timestep onward) = 1421097
+Intramolecular time only (2nd timestep onward) = 142366
+Intermolecular time only (2nd timestep onward) = 1278321
+Other time (2nd timestep onward) = 410
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.372s
+user	1m52.221s
+sys	0m0.263s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+Generating input file input_64...
+[PARSEC] Keeping old run directory.
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+Generating input file input_64...
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578067478035
+COMPUTEEND = 1674578069864807
+COMPUTETIME (after initialization) = 2386772
+Measured Time (2nd timestep onward) = 1227734
+Intramolecular time only (2nd timestep onward) = 166620
+Intermolecular time only (2nd timestep onward) = 1060778
+Other time (2nd timestep onward) = 336
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.159s
+user	1m48.036s
+sys	0m0.269s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578067376509
+COMPUTEEND = 1674578070143271
+COMPUTETIME (after initialization) = 2766762
+Measured Time (2nd timestep onward) = 1491023
+Intramolecular time only (2nd timestep onward) = 141181
+Intermolecular time only (2nd timestep onward) = 1349391
+Other time (2nd timestep onward) = 451
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.428s
+user	1m55.077s
+sys	0m0.222s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578071904195
+COMPUTEEND = 1674578074516949
+COMPUTETIME (after initialization) = 2612754
+Measured Time (2nd timestep onward) = 1422374
+Intramolecular time only (2nd timestep onward) = 161827
+Intermolecular time only (2nd timestep onward) = 1260151
+Other time (2nd timestep onward) = 396
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.380s
+user	2m2.802s
+sys	0m0.272s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578071829698
+COMPUTEEND = 1674578074586794
+COMPUTETIME (after initialization) = 2757096
+Measured Time (2nd timestep onward) = 1522355
+Intramolecular time only (2nd timestep onward) = 160897
+Intermolecular time only (2nd timestep onward) = 1361075
+Other time (2nd timestep onward) = 383
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.435s
+user	1m54.280s
+sys	0m0.184s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578076380653
+COMPUTEEND = 1674578079029366
+COMPUTETIME (after initialization) = 2648713
+Measured Time (2nd timestep onward) = 1411747
+Intramolecular time only (2nd timestep onward) = 112055
+Intermolecular time only (2nd timestep onward) = 1298799
+Other time (2nd timestep onward) = 893
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.376s
+user	1m56.481s
+sys	0m0.259s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54349      20243.41749
+COMPUTESTART (after initialization) = 1674578076312232
+COMPUTEEND = 1674578079096146
+COMPUTETIME (after initialization) = 2783914
+Measured Time (2nd timestep onward) = 1509972
+Intramolecular time only (2nd timestep onward) = 164860
+Intermolecular time only (2nd timestep onward) = 1343994
+Other time (2nd timestep onward) = 1118
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.442s
+user	1m57.566s
+sys	0m0.253s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+ERROR: Usage: water < infile, which must have 10 fields, see SPLASH documentation or comment at top of water.C
+Using 0 procs on 0 steps of 0 mols
+Other parameters:
+	TSTEP = 0.00e+00
+	NORDER = 0
+	NSAVE = 0
+	NRST = 0
+	NPRINT = 0
+	NFMC = 0
+	CUTOFF = 0.000000
+
+0 boxes with 0 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =        0
+NUMBER OF PROCESSORS       =        0
+TIME STEP                  = 0.00e+00 SEC
+ORDER USED TO SOLVE F=MA   =        0 
+NO. OF TIME STEPS          =        0 
+FREQUENCY OF DATA SAVING   =        0 
+FREQUENCY TO WRITE RST FILE=        0 
+xprocs = 1	yprocs = 1	zprocs = 0
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 59: 297114 Floating point exception(core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64
+
+real	0m0.202s
+user	0m0.002s
+sys	0m0.006s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578080749329
+COMPUTEEND = 1674578083414972
+COMPUTETIME (after initialization) = 2665643
+Measured Time (2nd timestep onward) = 1436719
+Intramolecular time only (2nd timestep onward) = 155990
+Intermolecular time only (2nd timestep onward) = 1280441
+Other time (2nd timestep onward) = 288
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.312s
+user	1m49.069s
+sys	0m0.222s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578085092566
+COMPUTEEND = 1674578087772896
+COMPUTETIME (after initialization) = 2680330
+Measured Time (2nd timestep onward) = 1441693
+Intramolecular time only (2nd timestep onward) = 146585
+Intermolecular time only (2nd timestep onward) = 1294718
+Other time (2nd timestep onward) = 390
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.331s
+user	1m59.197s
+sys	0m0.225s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578085160914
+COMPUTEEND = 1674578087848554
+COMPUTETIME (after initialization) = 2687640
+Measured Time (2nd timestep onward) = 1447529
+Intramolecular time only (2nd timestep onward) = 153861
+Intermolecular time only (2nd timestep onward) = 1293406
+Other time (2nd timestep onward) = 262
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.378s
+user	1m51.960s
+sys	0m0.256s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578089505288
+COMPUTEEND = 1674578092274926
+COMPUTETIME (after initialization) = 2769638
+Measured Time (2nd timestep onward) = 1525612
+Intramolecular time only (2nd timestep onward) = 239210
+Intermolecular time only (2nd timestep onward) = 1285677
+Other time (2nd timestep onward) = 725
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.443s
+user	1m53.186s
+sys	0m0.286s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578089495074
+COMPUTEEND = 1674578092391542
+COMPUTETIME (after initialization) = 2896468
+Measured Time (2nd timestep onward) = 1569916
+Intramolecular time only (2nd timestep onward) = 151740
+Intermolecular time only (2nd timestep onward) = 1417570
+Other time (2nd timestep onward) = 606
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.558s
+user	2m12.282s
+sys	0m0.222s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54349      20243.41749
+COMPUTESTART (after initialization) = 1674578094079008
+COMPUTEEND = 1674578096507837
+COMPUTETIME (after initialization) = 2428829
+Measured Time (2nd timestep onward) = 1300189
+Intramolecular time only (2nd timestep onward) = 236814
+Intermolecular time only (2nd timestep onward) = 1062582
+Other time (2nd timestep onward) = 793
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.110s
+user	1m44.905s
+sys	0m0.299s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578094068543
+COMPUTEEND = 1674578096920813
+COMPUTETIME (after initialization) = 2852270
+Measured Time (2nd timestep onward) = 1533066
+Intramolecular time only (2nd timestep onward) = 150670
+Intermolecular time only (2nd timestep onward) = 1382003
+Other time (2nd timestep onward) = 393
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.517s
+user	2m5.250s
+sys	0m0.182s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Generating input file input_64...
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578098575777
+COMPUTEEND = 1674578101287041
+COMPUTETIME (after initialization) = 2711264
+Measured Time (2nd timestep onward) = 1471783
+Intramolecular time only (2nd timestep onward) = 153130
+Intermolecular time only (2nd timestep onward) = 1318085
+Other time (2nd timestep onward) = 568
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.361s
+user	1m58.103s
+sys	0m0.235s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578098776463
+COMPUTEEND = 1674578101444032
+COMPUTETIME (after initialization) = 2667569
+Measured Time (2nd timestep onward) = 1406452
+Intramolecular time only (2nd timestep onward) = 135820
+Intermolecular time only (2nd timestep onward) = 1269976
+Other time (2nd timestep onward) = 656
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.519s
+user	1m56.977s
+sys	0m0.347s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] [---------- Beginning of output ----------]
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+[PARSEC] Keeping old run directory.
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578103034209
+COMPUTEEND = 1674578105757221
+COMPUTETIME (after initialization) = 2723012
+Measured Time (2nd timestep onward) = 1497440
+Intramolecular time only (2nd timestep onward) = 162439
+Intermolecular time only (2nd timestep onward) = 1334603
+Other time (2nd timestep onward) = 398
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54352      20243.41749
+COMPUTESTART (after initialization) = 1674578103091483
+COMPUTEEND = 1674578105764566
+COMPUTETIME (after initialization) = 2673083
+Measured Time (2nd timestep onward) = 1448073
+Intramolecular time only (2nd timestep onward) = 165391
+Intermolecular time only (2nd timestep onward) = 1282226
+Other time (2nd timestep onward) = 456
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.374s
+user	2m8.008s
+sys	0m0.243s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m3.392s
+user	1m55.323s
+sys	0m0.230s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+[PARSEC] Benchmarks to run:  splash2x.water_spatial
+
+
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.water_spatial [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/run.sh 64 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_64...
+Generating input file input_64...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/water_spatial/inst/amd64-linux.gcc-pthreads/bin/water_spatial 64 < input_64:
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+Using 64 procs on 3 steps of 1000000 mols
+Other parameters:
+	TSTEP = 1.50e-18
+	NORDER = 6
+	NSAVE = -1
+	NRST = 3000
+	NPRINT = 3
+	NFMC = 0
+	CUTOFF = 6.212752
+
+125000 boxes with 64 processors
+
+
+TEMPERATURE                =   298.00 K
+DENSITY                    =  0.99800 G/C.C.
+NUMBER OF MOLECULES        =  1000000
+NUMBER OF PROCESSORS       =       64
+TIME STEP                  = 1.50e-03 SEC
+ORDER USED TO SOLVE F=MA   =        6 
+NO. OF TIME STEPS          =        3 
+FREQUENCY OF DATA SAVING   =       -1 
+FREQUENCY TO WRITE RST FILE=     3000 
+xprocs = 4	yprocs = 4	zprocs = 4
+xprocs = 4	yprocs = 4	zprocs = 4
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+x_inc = 12	 y_inc = 12	 z_inc = 12
+x_left = 2	 y_left = 2	 z_left = 2
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+SPHERICAL CUTOFF RADIUS    =   6.2128 ANGSTROM
+
+NS = 99.9999999999999574
+BOXL = 310.637619
+CUTOFF =   6.212752
+BOX_LENGTH =   6.212752
+BOX_PER_SIDE = 50
+XS =   3.106376
+ZERO = 1.55319
+WCOS = 0.585882
+WSIN = 0.756950
+***** NEW RUN STARTING FROM REGULAR LATTICE *****
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578107364798
+COMPUTEEND = 1674578110112941
+COMPUTETIME (after initialization) = 2748143
+Measured Time (2nd timestep onward) = 1477416
+Intramolecular time only (2nd timestep onward) = 157019
+Intermolecular time only (2nd timestep onward) = 1319992
+Other time (2nd timestep onward) = 405
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.406s
+user	2m1.837s
+sys	0m0.247s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+         3 700647443.66593  94238.11189   -380.60908     -0.21538 
+    700741300.953 192716175223.54358      20243.41749
+COMPUTESTART (after initialization) = 1674578107449859
+COMPUTEEND = 1674578110347503
+COMPUTETIME (after initialization) = 2897644
+Measured Time (2nd timestep onward) = 1616434
+Intramolecular time only (2nd timestep onward) = 216986
+Intermolecular time only (2nd timestep onward) = 1398392
+Other time (2nd timestep onward) = 1056
+
+Exited Happily with XTT = 7.00741e+08 (note: XTT value is garbage if NPRINT > NSTEP)
+
+real	0m3.646s
+user	2m3.495s
+sys	0m0.339s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+01/24/23 17:35:10  1674578110.380678618
