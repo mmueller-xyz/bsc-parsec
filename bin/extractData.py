@@ -9,7 +9,8 @@ import numpy as np
 import pandas as pd
 
 verbose = False
-log = False
+log = True
+numeric_x_axis = True
 
 def parsefile(infile, outfile=sys.stdout):
     node = infile.readline()[:-1]
@@ -17,7 +18,7 @@ def parsefile(infile, outfile=sys.stdout):
     name = test.split()[1]
     runs = int(test.split()[2])
     threads = int(test.split()[5])
-    paralell_executions = int(test.split()[7])
+    paralell_executions = int(test.split()[8])
     starttime = infile.readline()[:-1]
     endtime = ""
 
@@ -66,6 +67,7 @@ def parsefile(infile, outfile=sys.stdout):
     if verbose: print(endtime, file=outfile)
     infile.close()
 
+    if numeric_x_axis: return threads, np.array(data)
     return f"{threads}c\n{paralell_executions}p\n{runs}s", np.array(data)
 
 
@@ -141,6 +143,44 @@ def generate_total_runtime_plot(data, filename, folder="~"):
     plt.close(fig)
     # plt.show()
 
+def generate_strong_scaling_plot(data, filename, folder="~"):
+    if not numeric_x_axis: return
+
+    data_scaled = {}
+    t_1 = {}
+    for index, line in enumerate(data.items()):
+        if index == 0:
+            data_scaled[line[0]] = np.divide(np.median(line[1]), line[1])
+            t_1 = line[1]
+        else:
+            data_scaled[line[0]] = np.divide(np.median(t_1), line[1])
+
+    df = pd.DataFrame(dict([(k, pd.Series(v)) for k, v in data_scaled.items()]))
+    df = df.astype(float)
+
+    mean = df.mean()
+    mean.index = np.arange(1, len(mean) + 1)
+
+    fig, ax = plt.subplots()
+    ax.set_ylabel("Speedup")
+    fig.set_figwidth(5)
+    # plt.grid(visible=True, which='both')
+    # ax.minorticks_on()
+    # ax.tick_params(axis='y', which='both', bottom=True)
+    plt.margins(x=0)
+
+    # ax.set_xticks(np.linspace(0,40,6))
+    if log: ax.set_yscale('log')
+
+    mean.plot(ax=ax)
+    df.boxplot(showfliers=True, ax=ax)
+    ax.set_ylim(ymin=0)
+
+    plt.title(filename)
+    plt.savefig(folder + filename + "_strong_scaling.pdf")
+    plt.close(fig)
+    # plt.show()
+
 
 def visualize_errors(data, filename, folder="~"):
     data_scaled = {}
@@ -163,7 +203,8 @@ def visualize_errors(data, filename, folder="~"):
 
 
 def format_error_string(b_data):
-    return [(data[0].split('\n')[0], len(data[1])) for data in b_data.items()]
+    if not numeric_x_axis: return [(data[0].split('\n')[0], len(data[1])) for data in b_data.items()]
+    return [(data[0], len(data[1])) for data in b_data.items()]
 
 
 if __name__ == "__main__":
@@ -178,6 +219,12 @@ if __name__ == "__main__":
             if data.get(raw.split("/")[-1].split("_")[0]) is None:
                 data[raw.split("/")[-1].split("_")[0]] = {}
             data[raw.split("/")[-1].split("_")[0]][line_data[0]] = line_data[1]
+            # if not numeric_x_axis:
+            #     if data.get(raw.split("/")[-1].split("_")[0]) is None:
+            #         data[raw.split("/")[-1].split("_")[0]] = {}
+            #     data[raw.split("/")[-1].split("_")[0]][line_data[0]] = line_data[1]
+            # else:
+            #     data[line_data[0]] = line_data[1]
 
         # if data.get("splash2x.raytrace") is not None:
         #     data["splash2x.raytrace"].pop("256c\n1p\n32s")
@@ -185,9 +232,10 @@ if __name__ == "__main__":
         for benchmark, b_data in data.items():
             print(f"{benchmark}: \n{format_error_string(b_data)}")
 
-            visualize_errors(b_data, benchmark, "/home/dev/Desktop/BSC/parsec/data/")
-            generate_total_runtime_plot(b_data, benchmark, "/home/dev/Desktop/BSC/parsec/data/")
-            generate_runtime_per_task_plot(b_data, benchmark, "/home/dev/Desktop/BSC/parsec/data/")
+            # visualize_errors(b_data, benchmark, "/home/dev/Desktop/BSC/parsec/data/")
+            # generate_total_runtime_plot(b_data, benchmark, "/home/dev/Desktop/BSC/parsec/data/")
+            # generate_runtime_per_task_plot(b_data, benchmark, "/home/dev/Desktop/BSC/parsec/data/")
+            generate_strong_scaling_plot(b_data, benchmark, "/home/dev/Desktop/BSC/parsec/data/")
             # try:
             #     generate_total_runtime_plot(b_data, benchmark, "/home/dev/Desktop/BSC/parsec/")
             #     generate_runtime_per_task_plot(b_data, benchmark, "/home/dev/Desktop/BSC/parsec/")
