@@ -1,6 +1,6 @@
-n3501-036
+n3507-005
 Testing blackscholes 32 times on 1 cores with 1 parallel executions using input size:native
-02/28/23 14:47:20  1677592040.985337850
+02/28/23 15:45:57  1677595557.353292602
 [PARSEC] Benchmarks to run:  parsec.blackscholes
 
 [PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
@@ -12,9 +12,9 @@ Num of Options: 10000000
 Num of Runs: 100
 Size of data: 400000000
 
-real	0m44.378s
-user	0m44.009s
-sys	0m0.219s
+real	0m44.557s
+user	0m43.939s
+sys	0m0.460s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -33,114 +33,9 @@ Num of Options: 10000000
 Num of Runs: 100
 Size of data: 400000000
 
-real	0m44.335s
-user	0m43.998s
-sys	0m0.213s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.274s
-user	0m43.925s
-sys	0m0.225s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.304s
-user	0m43.942s
-sys	0m0.235s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.360s
-user	0m44.022s
-sys	0m0.213s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.496s
-user	0m44.076s
-sys	0m0.229s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.256s
-user	0m43.888s
-sys	0m0.215s
+real	0m44.583s
+user	0m43.991s
+sys	0m0.465s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -160,8 +55,8 @@ Num of Runs: 100
 Size of data: 400000000
 
 real	0m44.552s
-user	0m43.965s
-sys	0m0.461s
+user	0m43.966s
+sys	0m0.464s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -180,9 +75,9 @@ Num of Options: 10000000
 Num of Runs: 100
 Size of data: 400000000
 
-real	0m44.420s
-user	0m44.074s
-sys	0m0.211s
+real	0m44.748s
+user	0m44.181s
+sys	0m0.448s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -201,8 +96,134 @@ Num of Options: 10000000
 Num of Runs: 100
 Size of data: 400000000
 
-real	0m44.578s
-user	0m44.004s
+real	0m44.494s
+user	0m43.874s
+sys	0m0.485s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.562s
+user	0m43.992s
+sys	0m0.442s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.496s
+user	0m43.871s
+sys	0m0.495s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.536s
+user	0m44.208s
+sys	0m0.206s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.553s
+user	0m43.943s
+sys	0m0.481s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.554s
+user	0m43.974s
+sys	0m0.463s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.460s
+user	0m43.898s
 sys	0m0.437s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
@@ -222,9 +243,9 @@ Num of Options: 10000000
 Num of Runs: 100
 Size of data: 400000000
 
-real	0m44.393s
-user	0m44.073s
-sys	0m0.194s
+real	0m44.563s
+user	0m44.024s
+sys	0m0.419s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -243,9 +264,9 @@ Num of Options: 10000000
 Num of Runs: 100
 Size of data: 400000000
 
-real	0m44.415s
-user	0m44.053s
-sys	0m0.224s
+real	0m44.567s
+user	0m43.917s
+sys	0m0.467s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -264,282 +285,9 @@ Num of Options: 10000000
 Num of Runs: 100
 Size of data: 400000000
 
-real	0m44.970s
-user	0m44.644s
-sys	0m0.197s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.379s
-user	0m44.032s
-sys	0m0.216s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.631s
-user	0m44.278s
-sys	0m0.223s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.342s
-user	0m43.984s
-sys	0m0.220s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.419s
-user	0m44.045s
-sys	0m0.213s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.373s
-user	0m44.007s
-sys	0m0.235s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.342s
-user	0m43.989s
-sys	0m0.221s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.317s
-user	0m43.971s
-sys	0m0.216s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.274s
-user	0m43.949s
-sys	0m0.197s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.561s
-user	0m43.951s
-sys	0m0.480s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.569s
-user	0m44.231s
-sys	0m0.211s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.424s
-user	0m44.081s
-sys	0m0.217s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.343s
-user	0m43.992s
-sys	0m0.221s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.blackscholes
-
-[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-Num of Options: 10000000
-Num of Runs: 100
-Size of data: 400000000
-
-real	0m44.345s
+real	0m44.610s
 user	0m44.018s
-sys	0m0.201s
+sys	0m0.471s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -554,4 +302,256 @@ sys	0m0.201s
 [PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
 [PARSEC] [---------- Beginning of output ----------]
 PARSEC Benchmark Suite Version 3.0-beta-20150206
-slurmstepd: error: *** JOB 139441 ON n3501-036 CANCELLED AT 2023-02-28T15:07:35 DUE TO TIME LIMIT ***
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.282s
+user	0m43.934s
+sys	0m0.228s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.613s
+user	0m44.047s
+sys	0m0.445s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.537s
+user	0m43.969s
+sys	0m0.446s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.586s
+user	0m43.956s
+sys	0m0.497s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.495s
+user	0m43.904s
+sys	0m0.458s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.529s
+user	0m43.976s
+sys	0m0.435s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.623s
+user	0m44.042s
+sys	0m0.456s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.259s
+user	0m43.921s
+sys	0m0.218s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.481s
+user	0m43.945s
+sys	0m0.425s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.568s
+user	0m43.969s
+sys	0m0.469s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.516s
+user	0m43.914s
+sys	0m0.468s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+Num of Options: 10000000
+Num of Runs: 100
+Size of data: 400000000
+
+real	0m44.563s
+user	0m43.983s
+sys	0m0.448s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.blackscholes
+
+[PARSEC] [========== Running benchmark parsec.blackscholes [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/blackscholes/inst/amd64-linux.gcc-openmp/bin/blackscholes 1 in_10M.txt prices.txt':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+slurmstepd: error: *** JOB 139804 ON n3507-005 CANCELLED AT 2023-02-28T16:06:09 DUE TO TIME LIMIT ***
