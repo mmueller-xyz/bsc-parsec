@@ -57,7 +57,7 @@ all: $(configurations)
 	@echo "#SBATCH --mail-type=ALL" >> $@
 	@echo "#SBATCH --mail-user=$(mail)" >> $@
 	@echo "hostname" >> $@
-	@echo "echo Testing $(PACKAGE) $(RUNS) times on $(CORES_PER_TASK) cores using input size:$(input)" >> $@
+	@echo "echo Testing $(PACKAGE) $(RUNS) times on $(CORES_PER_TASK) cores with $(TASKS) parallel executions using input size:$(input)" >> $@
 	@echo "date \"+%D %T  %s.%N\"" >> $@
 	@for k in {1..$(RUNS)}; do \
 		for i in {1..$(TASKS)}; do \

@@ -15,12 +15,12 @@ def parsefile(infile, outfile=sys.stdout):
     node = infile.readline()[:-1]
     test = infile.readline()
     name = test.split()[1]
+    runs = int(test.split()[2])
     threads = int(test.split()[5])
+    paralell_executions = int(test.split()[7])
     starttime = infile.readline()[:-1]
     endtime = ""
 
-    runs = min(int(threads / 128 * 32), 32)
-    paralell_executions = max(int(128 / threads), 1)
     if verbose: print(f"{threads}c {paralell_executions}p {runs}s")
 
     data = []
