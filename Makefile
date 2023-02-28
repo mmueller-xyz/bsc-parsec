@@ -1,7 +1,7 @@
 threads := 001 002 004 008 016 032 064 128 # 256
 partition := zen3_0512
 qos := zen3_0512
-time := "10:00"
+time := "20:00"
 mail := "e11810852@student.tuwien.ac.at"
 srun := srun
 parsecmgmt := $(HOME)/Benchmarks/parsec/bin/parsecmgmt
@@ -11,13 +11,24 @@ configurations:= blackscholes bodytrack # fmm fft barnes ocean_cp ocean_ncp radi
 all: $(configurations)
 
 # Number of cpus allocated to each Benchmark
-%001.slurm: CORES_PER_TASK = 001
-%002.slurm: CORES_PER_TASK = 002
-%004.slurm: CORES_PER_TASK = 004
-%008.slurm: CORES_PER_TASK = 008
-%016.slurm: CORES_PER_TASK = 016
-%032.slurm: CORES_PER_TASK = 032
-%064.slurm: CORES_PER_TASK = 064
+%001.slurm: CORES_PER_TASK_printed = 001
+%002.slurm: CORES_PER_TASK_printed = 002
+%004.slurm: CORES_PER_TASK_printed = 004
+%008.slurm: CORES_PER_TASK_printed = 008
+%016.slurm: CORES_PER_TASK_printed = 016
+%032.slurm: CORES_PER_TASK_printed = 032
+%064.slurm: CORES_PER_TASK_printed = 064
+%128.slurm: CORES_PER_TASK_printed = 128
+%256.slurm: CORES_PER_TASK_printed = 256
+
+# Number of cpus allocated to each Benchmark in readable format
+%001.slurm: CORES_PER_TASK = 1
+%002.slurm: CORES_PER_TASK = 2
+%004.slurm: CORES_PER_TASK = 4
+%008.slurm: CORES_PER_TASK = 8
+%016.slurm: CORES_PER_TASK = 16
+%032.slurm: CORES_PER_TASK = 32
+%064.slurm: CORES_PER_TASK = 64
 %128.slurm: CORES_PER_TASK = 128
 %256.slurm: CORES_PER_TASK = 256
 
@@ -45,8 +56,8 @@ all: $(configurations)
 
 %.slurm:
 	@echo "#!/bin/bash" > $@
-	@echo "#SBATCH --job-name '$(PACKAGE)_$(CORES_PER_TASK)_$(CONFIG)' " >> $@
-	@echo "#SBATCH --output out/$(PACKAGE)_$(CORES_PER_TASK)_$(CONFIG)_%j.out" >> $@
+	@echo "#SBATCH --job-name '$(PACKAGE)_$(CORES_PER_TASK_printed)_$(CONFIG)' " >> $@
+	@echo "#SBATCH --output out/$(PACKAGE)_$(CORES_PER_TASK_printed)_$(CONFIG)_%j.out" >> $@
 	@echo "#SBATCH --nodes 1" >> $@
 	@echo "#SBATCH --ntasks $(TASKS)" >> $@
 	@echo "#SBATCH --cpus-per-task $(CORES_PER_TASK)" >> $@
