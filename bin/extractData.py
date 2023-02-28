@@ -69,7 +69,7 @@ def parsefile(infile, outfile=sys.stdout):
     return f"{threads}c\n{paralell_executions}p\n{runs}s", np.array(data)
 
 
-def parse_minutes_and_seconds(s: str) -> float:S
+def parse_minutes_and_seconds(s: str):
     if re.match("(\d+)m(\d+\.\d+)s", s):
         regex = re.search("(\d)m(\d+\.\d+)s", s)
         return 0.0 + float(regex.group(1)) * 60 + float(regex.group(2))
