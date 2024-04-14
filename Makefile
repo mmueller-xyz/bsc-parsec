@@ -64,7 +64,7 @@ all: $(configurations)
 	@echo "#SBATCH --cpus-per-task $(CORES_PER_TASK)" >> $@
 	@echo "#SBATCH --profile=all" >> $@
 	@echo "#SBATCH --mem=MaxMemPerNode" >> $@
-	@echo "#SBATCH --exclusive >> $@
+	@echo "#SBATCH --exclusive" >> $@
 	@echo "#SBATCH --partition=$(partition)" >> $@
 	@echo "#SBATCH --qos $(qos)" >> $@
 	@echo "#SBATCH --time $(time)" >> $@
