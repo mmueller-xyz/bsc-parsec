@@ -7,6 +7,7 @@ srun := srun
 parsecmgmt := $(HOME)/Benchmarks/parsec/bin/parsecmgmt
 input := native
 configurations:= blackscholes bodytrack # fmm fft barnes ocean_cp ocean_ncp radiosity raytrace volrend water_nsquared water_spatial
+bind := spread # close
 
 all: $(configurations)
 
@@ -62,13 +63,17 @@ all: $(configurations)
 	@echo "#SBATCH --ntasks $(TASKS)" >> $@
 	@echo "#SBATCH --cpus-per-task $(CORES_PER_TASK)" >> $@
 	@echo "#SBATCH --profile=all" >> $@
+	@echo "#SBATCH --mem=MaxMemPerNode" >> $@
+	@echo "#SBATCH --exclusive >> $@
 	@echo "#SBATCH --partition=$(partition)" >> $@
 	@echo "#SBATCH --qos $(qos)" >> $@
 	@echo "#SBATCH --time $(time)" >> $@
 	@echo "#SBATCH --mail-type=ALL" >> $@
 	@echo "#SBATCH --mail-user=$(mail)" >> $@
+	@echo "export OMP_PROC_BIND=$(bind)" >> $@
+	@echo "export OMP_PLACES=cores" >> $@
 	@echo "hostname" >> $@
-	@echo "echo Testing $(PACKAGE) $(RUNS) times on $(CORES_PER_TASK) cores with $(TASKS) parallel executions using input size:$(input)" >> $@
+	@echo "echo Testing $(PACKAGE) $(RUNS) times on $(CORES_PER_TASK) cores with $(TASKS) parallel executions using input size:$(input) and OMP_PROC_BIND: $(bind)" >> $@
 	@echo "date \"+%D %T  %s.%N\"" >> $@
 	@for k in {1..$(RUNS)}; do \
 		for i in {1..$(TASKS)}; do \
