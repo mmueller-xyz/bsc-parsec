@@ -7,7 +7,7 @@ srun := srun
 parsecmgmt := $(HOME)/Benchmarks/parsec/bin/parsecmgmt
 input := native
 configurations:= blackscholes bodytrack # fmm fft barnes ocean_cp ocean_ncp radiosity raytrace volrend water_nsquared water_spatial
-bind := spread # close
+bind := spread# close
 
 all: $(configurations)
 
@@ -57,16 +57,15 @@ all: $(configurations)
 
 %.slurm:
 	@echo "#!/bin/bash" > $@
-	@echo "#SBATCH --job-name '$(PACKAGE)_$(CORES_PER_TASK_printed)_$(CONFIG)' " >> $@
-	@echo "#SBATCH --output out/$(PACKAGE)_$(CORES_PER_TASK_printed)_$(CONFIG)_%j.out" >> $@
+	@echo "#SBATCH --job-name '$(PACKAGE)_$(CORES_PER_TASK_printed)_$(CONFIG)_$(bind)' " >> $@
+	@echo "#SBATCH --output out/$(PACKAGE)_$(CORES_PER_TASK_printed)_$(CONFIG)_$(bind)_%j.out" >> $@
 	@echo "#SBATCH --nodes 1" >> $@
 	@echo "#SBATCH --ntasks $(TASKS)" >> $@
 	@echo "#SBATCH --cpus-per-task $(CORES_PER_TASK)" >> $@
 	@echo "#SBATCH --profile=all" >> $@
-	@echo "#SBATCH --mem=MaxMemPerNode" >> $@
+	@echo "#SBATCH --mem=0" >> $@
 	@echo "#SBATCH --exclusive" >> $@
 	@echo "#SBATCH --partition=$(partition)" >> $@
-	@echo "#SBATCH --qos $(qos)" >> $@
 	@echo "#SBATCH --time $(time)" >> $@
 	@echo "#SBATCH --mail-type=ALL" >> $@
 	@echo "#SBATCH --mail-user=$(mail)" >> $@
