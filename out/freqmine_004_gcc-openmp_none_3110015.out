@@ -242,3 +242,153 @@ sys	0m0.379s
 [PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/freqmine/inst/amd64-linux.gcc-openmp/bin/freqmine webdocs_250k.dat 11000':
 [PARSEC] [---------- Beginning of output ----------]
 PARSEC Benchmark Suite Version 3.0-beta-20150206
+transaction number is 250000
+829
+28599
+363898
+2699198
+13410070
+47495313
+124190838
+245065199
+369974305
+430373350
+386138019
+265795578
+138598934
+53551164
+14790217
+2753445
+311877
+17498
+269
+the data preparation cost 1.075478 seconds, the FPgrowth cost 71.072779 seconds
+
+real	1m12.158s
+user	4m43.431s
+sys	0m0.383s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.freqmine
+
+[PARSEC] [========== Running benchmark parsec.freqmine [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/freqmine/inst/amd64-linux.gcc-openmp/bin/freqmine webdocs_250k.dat 11000':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+transaction number is 250000
+829
+28599
+363898
+2699198
+13410070
+47495313
+124190838
+245065199
+369974305
+430373350
+386138019
+265795578
+138598934
+53551164
+14790217
+2753445
+311877
+17498
+269
+the data preparation cost 1.077611 seconds, the FPgrowth cost 70.289866 seconds
+
+real	1m11.379s
+user	4m40.229s
+sys	0m0.411s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.freqmine
+
+[PARSEC] [========== Running benchmark parsec.freqmine [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/freqmine/inst/amd64-linux.gcc-openmp/bin/freqmine webdocs_250k.dat 11000':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+transaction number is 250000
+829
+28599
+363898
+2699198
+13410070
+47495313
+124190838
+245065199
+369974305
+430373350
+386138019
+265795578
+138598934
+53551164
+14790217
+2753445
+311877
+17498
+269
+the data preparation cost 1.072475 seconds, the FPgrowth cost 71.124448 seconds
+
+real	1m12.207s
+user	4m43.569s
+sys	0m0.406s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  parsec.freqmine
+
+[PARSEC] [========== Running benchmark parsec.freqmine [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/freqmine/inst/amd64-linux.gcc-openmp/bin/freqmine webdocs_250k.dat 11000':
+[PARSEC] [---------- Beginning of output ----------]
+PARSEC Benchmark Suite Version 3.0-beta-20150206
+transaction number is 250000
+829
+28599
+363898
+2699198
+13410070
+47495313
+124190838
+245065199
+369974305
+430373350
+386138019
+265795578
+138598934
+53551164
+14790217
+2753445
+311877
+17498
+269
+the data preparation cost 1.017602 seconds, the FPgrowth cost 70.056827 seconds
+
+real	1m11.083s
+user	4m39.484s
+sys	0m0.341s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
+[PARSEC]
+[PARSEC] Done.
+05/02/24 15:17:41  1714655861.776818451
