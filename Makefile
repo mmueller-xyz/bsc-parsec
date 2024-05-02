@@ -6,8 +6,8 @@ mail := "e11810852@student.tuwien.ac.at"
 srun := srun
 parsecmgmt := $(HOME)/Benchmarks/parsec/bin/parsecmgmt
 input := native
-configurations:= blackscholes bodytrack # fmm fft barnes ocean_cp ocean_ncp radiosity raytrace volrend water_nsquared water_spatial
-bind := spread# close
+configurations:= freqmine # blackscholes bodytrack # fmm fft barnes ocean_cp ocean_ncp radiosity raytrace volrend water_nsquared water_spatial
+bind := none
 
 all: $(configurations)
 
@@ -45,15 +45,15 @@ all: $(configurations)
 %256.slurm: TASKS = 1
 
 # Number of benchmark iterations
-%001.slurm: RUNS = 32
-%002.slurm: RUNS = 32
-%004.slurm: RUNS = 32
-%008.slurm: RUNS = 32
-%016.slurm: RUNS = 32
-%032.slurm: RUNS = 32
-%064.slurm: RUNS = 32
-%128.slurm: RUNS = 32
-%256.slurm: RUNS = 32
+%001.slurm: RUNS = 10
+%002.slurm: RUNS = 10
+%004.slurm: RUNS = 10
+%008.slurm: RUNS = 10
+%016.slurm: RUNS = 10
+%032.slurm: RUNS = 10
+%064.slurm: RUNS = 10
+%128.slurm: RUNS = 10
+%256.slurm: RUNS = 10
 
 %.slurm:
 	@echo "#!/bin/bash" > $@
@@ -69,8 +69,6 @@ all: $(configurations)
 	@echo "#SBATCH --time $(time)" >> $@
 	@echo "#SBATCH --mail-type=ALL" >> $@
 	@echo "#SBATCH --mail-user=$(mail)" >> $@
-	@echo "export OMP_PROC_BIND=$(bind)" >> $@
-	@echo "export OMP_PLACES=cores" >> $@
 	@echo "hostname" >> $@
 	@echo "echo Testing $(PACKAGE) $(RUNS) times on $(CORES_PER_TASK) cores with $(TASKS) parallel executions using input size:$(input) and OMP_PROC_BIND: $(bind)" >> $@
 	@echo "date \"+%D %T  %s.%N\"" >> $@
@@ -92,6 +90,13 @@ bodytrack-%.slurm: PACKAGE=bodytrack
 bodytrack-%.slurm: CONFIG=gcc-openmp
 bodytrack-001.slurm: time="40:00"
 bodytrack-002.slurm: time="30:00"
+
+freqmine: $(addsuffix .slurm,$(addprefix freqmine-,$(threads)))
+freqmine-%.slurm: PACKAGE=freqmine
+freqmine-%.slurm: CONFIG=gcc-openmp
+freqmine-001.slurm: time="2:00:00"
+freqmine-002.slurm: time="1:00:00"
+freqmine-002.slurm: time="30:00"
 
 fft: $(addsuffix .slurm,$(addprefix fft-,$(threads)))
 fft-%.slurm: PACKAGE=splash2x.fft
