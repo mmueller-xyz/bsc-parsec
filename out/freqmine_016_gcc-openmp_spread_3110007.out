@@ -1,6 +1,6 @@
-n3504-003
-Testing freqmine 10 times on 8 cores with 1 parallel executions using input size:native and OMP_PROC_BIND: spread
-05/02/24 15:01:23  1714654883.058667014
+n3507-063
+Testing freqmine 10 times on 16 cores with 1 parallel executions using input size:native and OMP_PROC_BIND: spread
+05/02/24 15:03:31  1714655011.311855274
 [PARSEC] Benchmarks to run:  parsec.freqmine
 
 [PARSEC] [========== Running benchmark parsec.freqmine [1] ==========]
@@ -28,11 +28,11 @@ transaction number is 250000
 311877
 17498
 269
-the data preparation cost 0.992796 seconds, the FPgrowth cost 35.044777 seconds
+the data preparation cost 1.007191 seconds, the FPgrowth cost 21.434749 seconds
 
-real	0m36.065s
-user	4m37.124s
-sys	0m0.312s
+real	0m22.464s
+user	4m41.650s
+sys	0m0.490s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -67,11 +67,11 @@ transaction number is 250000
 311877
 17498
 269
-the data preparation cost 0.998660 seconds, the FPgrowth cost 35.291308 seconds
+the data preparation cost 1.015717 seconds, the FPgrowth cost 21.509433 seconds
 
-real	0m36.301s
-user	4m38.380s
-sys	0m0.340s
+real	0m22.536s
+user	4m42.335s
+sys	0m0.385s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -106,11 +106,11 @@ transaction number is 250000
 311877
 17498
 269
-the data preparation cost 1.005676 seconds, the FPgrowth cost 35.098358 seconds
+the data preparation cost 1.010544 seconds, the FPgrowth cost 21.714603 seconds
 
-real	0m36.115s
-user	4m37.954s
-sys	0m0.284s
+real	0m22.736s
+user	4m43.682s
+sys	0m0.403s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -145,89 +145,11 @@ transaction number is 250000
 311877
 17498
 269
-the data preparation cost 1.006723 seconds, the FPgrowth cost 35.354418 seconds
+the data preparation cost 1.004910 seconds, the FPgrowth cost 21.711596 seconds
 
-real	0m36.372s
-user	4m38.029s
-sys	0m0.326s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.freqmine
-
-[PARSEC] [========== Running benchmark parsec.freqmine [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/freqmine/inst/amd64-linux.gcc-openmp/bin/freqmine webdocs_250k.dat 11000':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-transaction number is 250000
-829
-28599
-363898
-2699198
-13410070
-47495313
-124190838
-245065199
-369974305
-430373350
-386138019
-265795578
-138598934
-53551164
-14790217
-2753445
-311877
-17498
-269
-the data preparation cost 0.946743 seconds, the FPgrowth cost 35.035245 seconds
-
-real	0m35.992s
-user	4m36.849s
-sys	0m0.334s
-[PARSEC] [----------    End of output    ----------]
-[PARSEC]
-[PARSEC] BIBLIOGRAPHY
-[PARSEC]
-[PARSEC] [1] Bienia. Benchmarking Modern Multiprocessors. Ph.D. Thesis, 2011.
-[PARSEC]
-[PARSEC] Done.
-[PARSEC] Benchmarks to run:  parsec.freqmine
-
-[PARSEC] [========== Running benchmark parsec.freqmine [1] ==========]
-[PARSEC] Keeping old run directory.
-[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/pkgs/apps/freqmine/inst/amd64-linux.gcc-openmp/bin/freqmine webdocs_250k.dat 11000':
-[PARSEC] [---------- Beginning of output ----------]
-PARSEC Benchmark Suite Version 3.0-beta-20150206
-transaction number is 250000
-829
-28599
-363898
-2699198
-13410070
-47495313
-124190838
-245065199
-369974305
-430373350
-386138019
-265795578
-138598934
-53551164
-14790217
-2753445
-311877
-17498
-269
-the data preparation cost 1.009345 seconds, the FPgrowth cost 35.254488 seconds
-
-real	0m36.274s
-user	4m38.807s
-sys	0m0.321s
+real	0m22.727s
+user	4m43.286s
+sys	0m0.460s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY

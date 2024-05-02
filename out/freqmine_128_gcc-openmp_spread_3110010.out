@@ -1,6 +1,6 @@
-n3504-003
-Testing freqmine 10 times on 8 cores with 1 parallel executions using input size:native and OMP_PROC_BIND: spread
-05/02/24 15:01:23  1714654883.058667014
+n3509-020
+Testing freqmine 10 times on 128 cores with 1 parallel executions using input size:native and OMP_PROC_BIND: spread
+05/02/24 15:03:31  1714655011.616076507
 [PARSEC] Benchmarks to run:  parsec.freqmine
 
 [PARSEC] [========== Running benchmark parsec.freqmine [1] ==========]
@@ -28,11 +28,11 @@ transaction number is 250000
 311877
 17498
 269
-the data preparation cost 0.992796 seconds, the FPgrowth cost 35.044777 seconds
+the data preparation cost 1.031881 seconds, the FPgrowth cost 12.682300 seconds
 
-real	0m36.065s
-user	4m37.124s
-sys	0m0.312s
+real	0m13.818s
+user	5m52.966s
+sys	0m3.866s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -67,11 +67,11 @@ transaction number is 250000
 311877
 17498
 269
-the data preparation cost 0.998660 seconds, the FPgrowth cost 35.291308 seconds
+the data preparation cost 1.019791 seconds, the FPgrowth cost 12.829822 seconds
 
-real	0m36.301s
-user	4m38.380s
-sys	0m0.340s
+real	0m13.948s
+user	5m56.712s
+sys	0m3.582s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -106,11 +106,11 @@ transaction number is 250000
 311877
 17498
 269
-the data preparation cost 1.005676 seconds, the FPgrowth cost 35.098358 seconds
+the data preparation cost 1.034845 seconds, the FPgrowth cost 12.797172 seconds
 
-real	0m36.115s
-user	4m37.954s
-sys	0m0.284s
+real	0m13.926s
+user	5m57.274s
+sys	0m3.750s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -145,11 +145,11 @@ transaction number is 250000
 311877
 17498
 269
-the data preparation cost 1.006723 seconds, the FPgrowth cost 35.354418 seconds
+the data preparation cost 1.030766 seconds, the FPgrowth cost 12.667516 seconds
 
-real	0m36.372s
-user	4m38.029s
-sys	0m0.326s
+real	0m13.795s
+user	5m55.630s
+sys	0m3.899s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -184,11 +184,11 @@ transaction number is 250000
 311877
 17498
 269
-the data preparation cost 0.946743 seconds, the FPgrowth cost 35.035245 seconds
+the data preparation cost 1.019964 seconds, the FPgrowth cost 13.103495 seconds
 
-real	0m35.992s
-user	4m36.849s
-sys	0m0.334s
+real	0m14.218s
+user	5m52.568s
+sys	0m4.824s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
@@ -223,11 +223,11 @@ transaction number is 250000
 311877
 17498
 269
-the data preparation cost 1.009345 seconds, the FPgrowth cost 35.254488 seconds
+the data preparation cost 1.031946 seconds, the FPgrowth cost 12.701733 seconds
 
-real	0m36.274s
-user	4m38.807s
-sys	0m0.321s
+real	0m13.792s
+user	5m53.181s
+sys	0m4.151s
 [PARSEC] [----------    End of output    ----------]
 [PARSEC]
 [PARSEC] BIBLIOGRAPHY
