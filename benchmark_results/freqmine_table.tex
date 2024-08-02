@@ -1,0 +1,56 @@
+\begin{table}
+\caption{Wall Time in HH:MM:SS for freqmine}
+\label{tab:time_freqmine}
+\begin{tabular}{lllllllll}
+\toprule
+Threads & 1 & 2 & 4 & 8 & 16 & 32 & 64 & 128 \\
+Bind &  &  &  &  &  &  &  &  \\
+\midrule
+close & 46:40 & 23:25 & 11:43 & 06:18 & 04:16 & 02:52 & 02:27 & 02:17 \\
+none & 46:45 & 23:21 & 11:55 & 06:08 & 03:55 & 02:48 & 02:20 & 02:17 \\
+spread & 46:32 & 23:21 & 11:56 & 06:02 & 03:45 & 02:46 & 02:19 & 02:18 \\
+\bottomrule
+\end{tabular}
+\end{table}
+\begin{table}
+\caption{Coefficient of variation in \%}
+\label{tab:cv_freqmine}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Threads & 1 & 2 & 4 & 8 & 16 & 32 & 64 & 128 \\
+Bind &  &  &  &  &  &  &  &  \\
+\midrule
+close & 1.06 & 0.29 & 0.39 & 1.42 & 0.38 & 0.39 & 0.82 & 1.20 \\
+none & 0.68 & 0.77 & 0.55 & 0.85 & 2.64 & 0.83 & 0.72 & 0.69 \\
+spread & 0.37 & 0.23 & 0.56 & 0.45 & 0.44 & 0.51 & 1.00 & 0.91 \\
+\bottomrule
+\end{tabular}
+\end{table}
+\begin{table}
+\caption{Observed speedup Sp = T1/Tp for freqmine}
+\label{tab:speedup_freqmine}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Threads & 1 & 2 & 4 & 8 & 16 & 32 & 64 & 128 \\
+Bind &  &  &  &  &  &  &  &  \\
+\midrule
+close & 1.000 & 1.992 & 3.979 & 7.400 & 10.914 & 16.196 & 18.960 & 20.358 \\
+none & 1.000 & 2.002 & 3.923 & 7.608 & 11.912 & 16.693 & 19.971 & 20.376 \\
+spread & 1.000 & 1.992 & 3.899 & 7.705 & 12.358 & 16.798 & 20.059 & 20.097 \\
+\bottomrule
+\end{tabular}
+\end{table}
+\begin{table}
+\caption{Observed efficiency Ep = Sp/p for freqmine}
+\label{tab:eff_freqmine}
+\begin{tabular}{lrrrrrrrr}
+\toprule
+Threads & 1 & 2 & 4 & 8 & 16 & 32 & 64 & 128 \\
+Bind &  &  &  &  &  &  &  &  \\
+\midrule
+close & 1.000 & 0.996 & 0.995 & 0.925 & 0.682 & 0.506 & 0.296 & 0.159 \\
+none & 1.000 & 1.001 & 0.981 & 0.951 & 0.744 & 0.522 & 0.312 & 0.159 \\
+spread & 1.000 & 0.996 & 0.975 & 0.963 & 0.772 & 0.525 & 0.313 & 0.157 \\
+\bottomrule
+\end{tabular}
+\end{table}
