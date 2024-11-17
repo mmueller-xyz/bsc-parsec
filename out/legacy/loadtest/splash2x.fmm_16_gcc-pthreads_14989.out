@@ -1,0 +1,1076 @@
+n3505-070
+Testing splash2x.fmm 4 times on 16 cores using input size:native
+01/15/23 23:52:48  1673823168.015995743
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] Keeping old run directory.
+
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Generating input file input_16...
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+[PARSEC] Benchmarks to run:  splash2x.fmm
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+
+[PARSEC] Keeping old run directory.
+
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+Generating input file input_16...
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Generating input file input_16...
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 602422 Segmentation fault      (core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 602305 Segmentation fault      (core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 602306 Segmentation fault      (core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16
+
+real	0m0.328s
+user	0m0.004s
+sys	0m0.007s
+
+real	0m0.371s
+user	0m0.004s
+sys	0m0.012s
+
+real	0m0.388s
+user	0m0.006s
+sys	0m0.010s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC]
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Done.
+[PARSEC] Done.
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      2624508      149998       73383       82961      450292     1621463       52309       72943      121150
+
+                                   TIMING INFORMATION
+Start time                        : 1673823170862399
+Initialization finish time        : 1673823175206163
+Overall finish time               : 1673823177830671
+Total time with initialization    :          6968272
+Total time without initialization :          2647791
+
+Total time for steps 3 to 5 :      2647791
+
+
+real	0m7.010s
+user	1m6.669s
+sys	0m5.264s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      2857815      137357       82221       77341      413429     1709407      236108       61755      140195
+
+                                   TIMING INFORMATION
+Start time                        : 1673823170867398
+Initialization finish time        : 1673823175235839
+Overall finish time               : 1673823178093655
+Total time with initialization    :          7226257
+Total time without initialization :          2859725
+
+Total time for steps 3 to 5 :      2859725
+
+
+real	0m7.264s
+user	1m9.170s
+sys	0m4.739s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      3429960      149949       90184       85249      445119     1754447      680855       86481      137671
+
+                                   TIMING INFORMATION
+Start time                        : 1673823170843747
+Initialization finish time        : 1673823175346516
+Overall finish time               : 1673823178776476
+Total time with initialization    :          7932729
+Total time without initialization :          3453895
+
+Total time for steps 3 to 5 :      3453895
+
+
+real	0m7.971s
+user	1m12.392s
+sys	0m5.194s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      3756811      226744      116681      117433      791835     1759798      474505      106432      163376
+
+                                   TIMING INFORMATION
+Start time                        : 1673823170867530
+Initialization finish time        : 1673823176508779
+Overall finish time               : 1673823180265591
+Total time with initialization    :          9398061
+Total time without initialization :          3825208
+
+Total time for steps 3 to 5 :      3825208
+
+
+real	0m9.454s
+user	1m26.342s
+sys	0m10.957s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      3403164      221608      171198      135596      630464     1452080      419361      143954      228892
+
+                                   TIMING INFORMATION
+Start time                        : 1673823170867400
+Initialization finish time        : 1673823177700050
+Overall finish time               : 1673823181103213
+Total time with initialization    :         10235813
+Total time without initialization :          3440583
+
+Total time for steps 3 to 5 :      3440583
+
+
+real	0m10.269s
+user	1m25.508s
+sys	0m10.323s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+Generating input file input_16...
+Generating input file input_16...
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+
+
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Generating input file input_16...
+Generating input file input_16...
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 606922 Segmentation fault      (core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16
+
+real	0m0.261s
+user	0m0.005s
+sys	0m0.006s
+/home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh: line 60: 606921 Segmentation fault      (core dumped) /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16
+
+real	0m0.267s
+user	0m0.002s
+sys	0m0.010s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Done.
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      2765501      127405       77379       77663      413457     1708064      124850       59326      177352
+
+                                   TIMING INFORMATION
+Start time                        : 1673823183381441
+Initialization finish time        : 1673823187904480
+Overall finish time               : 1673823190669981
+Total time with initialization    :          7288540
+Total time without initialization :          2767243
+
+Total time for steps 3 to 5 :      2767243
+
+
+real	0m7.323s
+user	1m9.408s
+sys	0m4.801s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      2909658      156599       80475       77088      483276     1806163      108751       72069      125232
+
+                                   TIMING INFORMATION
+Start time                        : 1673823183413655
+Initialization finish time        : 1673823187878996
+Overall finish time               : 1673823190788654
+Total time with initialization    :          7374999
+Total time without initialization :          2927654
+
+Total time for steps 3 to 5 :      2927654
+
+
+real	0m7.427s
+user	1m9.969s
+sys	0m5.531s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      3033217      161588       79802       90544      508294     1772651      138203      104480      177649
+
+                                   TIMING INFORMATION
+Start time                        : 1673823183380582
+Initialization finish time        : 1673823187870422
+Overall finish time               : 1673823190903639
+Total time with initialization    :          7523057
+Total time without initialization :          3033217
+
+Total time for steps 3 to 5 :      3033217
+
+
+real	0m7.567s
+user	1m13.604s
+sys	0m4.882s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      3103832      147954       91582       83592      496659     1861893      232478       86920      102751
+
+                                   TIMING INFORMATION
+Start time                        : 1673823183411534
+Initialization finish time        : 1673823188346347
+Overall finish time               : 1673823191450179
+Total time with initialization    :          8038645
+Total time without initialization :          3149161
+
+Total time for steps 3 to 5 :      3149161
+
+
+real	0m8.072s
+user	1m11.501s
+sys	0m5.610s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      3412403      203933      115056      142831      578371     1687221      347882      100501      236603
+
+                                   TIMING INFORMATION
+Start time                        : 1673823183413430
+Initialization finish time        : 1673823188890679
+Overall finish time               : 1673823192303083
+Total time with initialization    :          8889653
+Total time without initialization :          3420039
+
+Total time for steps 3 to 5 :      3420039
+
+
+real	0m8.963s
+user	1m19.675s
+sys	0m5.941s
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      3439283      214764      100037      125744      591811     1675366      416935      137869      176751
+
+                                   TIMING INFORMATION
+Start time                        : 1673823183387779
+Initialization finish time        : 1673823188910680
+Overall finish time               : 1673823192349963
+Total time with initialization    :          8962184
+Total time without initialization :          3515922
+
+Total time for steps 3 to 5 :      3515922
+
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m9.005s
+user	1m20.923s
+sys	0m6.883s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+
+Generating input file input_16...
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Generating input file input_16...
+Generating input file input_16...
+Generating input file input_16...
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      2566827      125433       72682       75416      447460     1611503       36746      101513       96069
+
+                                   TIMING INFORMATION
+Start time                        : 1673823194623999
+Initialization finish time        : 1673823199049996
+Overall finish time               : 1673823201616823
+Total time with initialization    :          6992824
+Total time without initialization :          2584577
+
+Total time for steps 3 to 5 :      2584577
+
+
+real	0m7.050s
+user	1m6.342s
+sys	0m5.496s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4055062      163919      100412       88684      507854     2675224      319889       57968      141106
+
+                                   TIMING INFORMATION
+Start time                        : 1673823194662060
+Initialization finish time        : 1673823199306069
+Overall finish time               : 1673823203361132
+Total time with initialization    :          8699072
+Total time without initialization :          4089246
+
+Total time for steps 3 to 5 :      4089246
+
+
+real	0m8.762s
+user	1m22.212s
+sys	0m5.004s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4607102      231315      121051      132860      614662     2258425      945475       83257      220045
+
+                                   TIMING INFORMATION
+Start time                        : 1673823194659206
+Initialization finish time        : 1673823201004865
+Overall finish time               : 1673823205611967
+Total time with initialization    :         10952761
+Total time without initialization :          4689842
+
+Total time for steps 3 to 5 :      4689842
+
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4860399      221105      135515      189737      575403     2958929      497593       50286      231822
+
+                                   TIMING INFORMATION
+Start time                        : 1673823194567776
+Initialization finish time        : 1673823200752624
+Overall finish time               : 1673823205613023
+Total time with initialization    :         11045247
+Total time without initialization :          4901922
+
+Total time for steps 3 to 5 :      4901922
+
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4900795      240462      158007      167730      646252     2900802      585812      109680       92045
+
+                                   TIMING INFORMATION
+Start time                        : 1673823194517670
+Initialization finish time        : 1673823200745886
+Overall finish time               : 1673823205646681
+Total time with initialization    :         11129011
+Total time without initialization :          4975262
+
+Total time for steps 3 to 5 :      4975262
+
+
+real	0m11.129s
+user	1m51.745s
+sys	0m6.212s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m11.075s
+user	1m50.022s
+sys	0m6.105s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4800318      245907      115895      129074      707272     2546931      746023      146928      162285
+
+                                   TIMING INFORMATION
+Start time                        : 1673823194659070
+Initialization finish time        : 1673823200935742
+Overall finish time               : 1673823205736060
+Total time with initialization    :         11076990
+Total time without initialization :          4844671
+
+Total time for steps 3 to 5 :      4844671
+
+
+real	0m11.234s
+user	1m54.763s
+sys	0m6.084s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4940937      281120      159204      145032      621308     3340104       94460       68308      231384
+
+                                   TIMING INFORMATION
+Start time                        : 1673823194612108
+Initialization finish time        : 1673823200795732
+Overall finish time               : 1673823205736669
+Total time with initialization    :         11124561
+Total time without initialization :          4986472
+
+Total time for steps 3 to 5 :      4986472
+
+
+real	0m11.106s
+user	1m50.023s
+sys	0m6.023s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m11.168s
+user	1m55.805s
+sys	0m6.264s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4794352      225077      125922      122631      682241     3141507      194916      141296      160753
+
+                                   TIMING INFORMATION
+Start time                        : 1673823194659206
+Initialization finish time        : 1673823201010603
+Overall finish time               : 1673823205804955
+Total time with initialization    :         11145749
+Total time without initialization :          4843680
+
+Total time for steps 3 to 5 :      4843680
+
+
+real	0m11.194s
+user	1m49.829s
+sys	0m5.888s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Generating input file input_16...
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] Benchmarks to run:  splash2x.fmm
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+Generating input file input_16...
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+[PARSEC] Benchmarks to run:  splash2x.fmm
+
+[PARSEC] [========== Running benchmark splash2x.fmm [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/run.sh 16 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file input_16...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/fmm/inst/amd64-linux.gcc-pthreads/bin/fmm 16 < input_16:
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Creating a two cluster, non uniform distribution for 4194304 particles
+Starting FMM with 16 processors
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      2624325      136641       74686       86812      457511     1607325       48006       93047      120291
+
+                                   TIMING INFORMATION
+Start time                        : 1673823207891506
+Initialization finish time        : 1673823212145614
+Overall finish time               : 1673823214769939
+Total time with initialization    :          6878433
+Total time without initialization :          2624767
+
+Total time for steps 3 to 5 :      2624767
+
+
+real	0m6.909s
+user	1m6.601s
+sys	0m5.007s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4181281      191784      108618      106371      581189     2291771      681124       70967      149451
+
+                                   TIMING INFORMATION
+Start time                        : 1673823207823492
+Initialization finish time        : 1673823212946994
+Overall finish time               : 1673823217128275
+Total time with initialization    :          9304783
+Total time without initialization :          4331686
+
+Total time for steps 3 to 5 :      4331686
+
+
+real	0m9.487s
+user	1m27.145s
+sys	0m5.530s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4163698      167712      114808       92383      566642     2915534      121537       73776      111300
+
+                                   TIMING INFORMATION
+Start time                        : 1673823207869506
+Initialization finish time        : 1673823213063217
+Overall finish time               : 1673823217226916
+Total time with initialization    :          9357410
+Total time without initialization :          4315789
+
+Total time for steps 3 to 5 :      4315789
+
+
+real	0m9.514s
+user	1m29.938s
+sys	0m5.335s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4815673      233993      122334      147181      727758     2537683      474585      266927      305202
+
+                                   TIMING INFORMATION
+Start time                        : 1673823207843650
+Initialization finish time        : 1673823214200333
+Overall finish time               : 1673823219016007
+Total time with initialization    :         11172357
+Total time without initialization :          4840911
+
+Total time for steps 3 to 5 :      4840911
+
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      5167267      303266      147910      183865      923645     2767207      404756      150597      286011
+
+                                   TIMING INFORMATION
+Start time                        : 1673823207773099
+Initialization finish time        : 1673823213853539
+Overall finish time               : 1673823219020806
+Total time with initialization    :         11247707
+Total time without initialization :          5190542
+
+Total time for steps 3 to 5 :      5190542
+
+
+real	0m11.241s
+user	1m45.190s
+sys	0m6.093s
+
+real	0m11.314s
+user	1m44.732s
+sys	0m6.104s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4742431      372710      237106      281918      908217     1683976      984986       99462      174044
+
+                                   TIMING INFORMATION
+Start time                        : 1673823207777832
+Initialization finish time        : 1673823215208677
+Overall finish time               : 1673823219951108
+Total time with initialization    :         12173276
+Total time without initialization :          4742431
+
+Total time for steps 3 to 5 :      4742431
+
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4782383      382263      183305      256619      777813     2338087      326031      142096      376154
+
+                                   TIMING INFORMATION
+Start time                        : 1673823207773899
+Initialization finish time        : 1673823215190812
+Overall finish time               : 1673823219973195
+Total time with initialization    :         12199296
+Total time without initialization :          4839187
+
+Total time for steps 3 to 5 :      4839187
+
+
+real	0m12.221s
+user	1m51.927s
+sys	0m10.799s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m12.234s
+user	1m54.897s
+sys	0m11.308s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+Finished FMM
+                                   PROCESS STATISTICS
+             Track        Tree        List        Part        Pass       Inter        Bar        Intra       Other
+ Proc        Time         Time        Time        Time        Time       Time         Time       Time        Time
+    0      4811890      322443      146279      213360      790091     2659680      217354      177099      285575
+
+                                   TIMING INFORMATION
+Start time                        : 1673823207866444
+Initialization finish time        : 1673823215413309
+Overall finish time               : 1673823220225199
+Total time with initialization    :         12358755
+Total time without initialization :          4833144
+
+Total time for steps 3 to 5 :      4833144
+
+
+real	0m12.402s
+user	1m52.748s
+sys	0m5.877s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+01/15/23 23:53:40  1673823220.270247417

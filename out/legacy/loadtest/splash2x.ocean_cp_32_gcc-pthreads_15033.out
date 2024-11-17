@@ -1,0 +1,1316 @@
+n3508-043
+Testing splash2x.ocean_cp 8 times on 32 cores using input size:native
+01/16/23 00:23:58  1673825038.504574121
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+
+
+
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          11535889            9617664             0.834
+
+                       TIMING INFORMATION
+Start time                        : 1673825040315789
+Initialization finish time        : 1673825041369755
+Overall finish time               : 1673825052908012
+Total time with initialization    :         12592223
+Total time without initialization :         11538257
+    (excludes first timestep)
+
+
+real	0m12.752s
+user	3m34.956s
+sys	0m8.184s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          15248269           11851876             0.777
+
+                       TIMING INFORMATION
+Start time                        : 1673825040315909
+Initialization finish time        : 1673825041784859
+Overall finish time               : 1673825057044864
+Total time with initialization    :         16728955
+Total time without initialization :         15260005
+    (excludes first timestep)
+
+
+real	0m16.802s
+user	4m58.791s
+sys	0m8.517s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          15277788           11302888             0.740
+
+                       TIMING INFORMATION
+Start time                        : 1673825040315801
+Initialization finish time        : 1673825041957604
+Overall finish time               : 1673825057240514
+Total time with initialization    :         16924713
+Total time without initialization :         15282910
+    (excludes first timestep)
+
+
+real	0m17.054s
+user	5m22.727s
+sys	0m9.094s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          15564465           11953165             0.768
+
+                       TIMING INFORMATION
+Start time                        : 1673825040315793
+Initialization finish time        : 1673825041901854
+Overall finish time               : 1673825057472493
+Total time with initialization    :         17156700
+Total time without initialization :         15570639
+    (excludes first timestep)
+
+
+real	0m17.261s
+user	4m52.484s
+sys	0m9.761s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Keeping old run directory.
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+
+Generating input file ...
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          16307348           13528281             0.830
+
+                       TIMING INFORMATION
+Start time                        : 1673825058890853
+Initialization finish time        : 1673825060838324
+Overall finish time               : 1673825077146868
+Total time with initialization    :         18256015
+Total time without initialization :         16308544
+    (excludes first timestep)
+
+
+real	0m18.408s
+user	4m40.931s
+sys	0m9.263s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          18450331           15096393             0.818
+
+                       TIMING INFORMATION
+Start time                        : 1673825058845914
+Initialization finish time        : 1673825061144540
+Overall finish time               : 1673825079595492
+Total time with initialization    :         20749578
+Total time without initialization :         18450952
+    (excludes first timestep)
+
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          18515319           14672920             0.792
+
+                       TIMING INFORMATION
+Start time                        : 1673825058882846
+Initialization finish time        : 1673825061154126
+Overall finish time               : 1673825079673608
+Total time with initialization    :         20790762
+Total time without initialization :         18519482
+    (excludes first timestep)
+
+
+real	0m20.921s
+user	5m3.029s
+sys	0m10.857s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          18222560           14932942             0.819
+
+                       TIMING INFORMATION
+Start time                        : 1673825058893123
+Initialization finish time        : 1673825061600204
+Overall finish time               : 1673825079827706
+Total time with initialization    :         20934583
+Total time without initialization :         18227502
+    (excludes first timestep)
+
+
+real	0m20.959s
+user	4m59.124s
+sys	0m11.605s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m21.000s
+user	5m40.324s
+sys	0m11.459s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          16742942           13391187             0.800
+
+                       TIMING INFORMATION
+Start time                        : 1673825081213336
+Initialization finish time        : 1673825083000109
+Overall finish time               : 1673825099754461
+Total time with initialization    :         18541125
+Total time without initialization :         16754352
+    (excludes first timestep)
+
+
+real	0m18.773s
+user	5m3.875s
+sys	0m10.381s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          17177517           14282473             0.831
+
+                       TIMING INFORMATION
+Start time                        : 1673825081223379
+Initialization finish time        : 1673825082926548
+Overall finish time               : 1673825100105227
+Total time with initialization    :         18881848
+Total time without initialization :         17178679
+    (excludes first timestep)
+
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          17097426           13679702             0.800
+
+                       TIMING INFORMATION
+Start time                        : 1673825081208612
+Initialization finish time        : 1673825083113467
+Overall finish time               : 1673825100220227
+Total time with initialization    :         19011615
+Total time without initialization :         17106760
+    (excludes first timestep)
+
+
+real	0m19.009s
+user	4m40.092s
+sys	0m10.126s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          17170504           13799376             0.804
+
+                       TIMING INFORMATION
+Start time                        : 1673825081212695
+Initialization finish time        : 1673825083092456
+Overall finish time               : 1673825100263161
+Total time with initialization    :         19050466
+Total time without initialization :         17170705
+    (excludes first timestep)
+
+
+real	0m19.122s
+user	5m6.005s
+sys	0m10.254s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m19.139s
+user	4m55.909s
+sys	0m11.099s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+
+
+
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          16420292           13113089             0.799
+
+                       TIMING INFORMATION
+Start time                        : 1673825101708264
+Initialization finish time        : 1673825103388036
+Overall finish time               : 1673825119824491
+Total time with initialization    :         18116227
+Total time without initialization :         16436455
+    (excludes first timestep)
+
+
+real	0m18.319s
+user	4m50.798s
+sys	0m9.009s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          16796322           13362434             0.796
+
+                       TIMING INFORMATION
+Start time                        : 1673825101707514
+Initialization finish time        : 1673825103337688
+Overall finish time               : 1673825120137877
+Total time with initialization    :         18430363
+Total time without initialization :         16800189
+    (excludes first timestep)
+
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          16622402           12855190             0.773
+
+                       TIMING INFORMATION
+Start time                        : 1673825101707571
+Initialization finish time        : 1673825103511959
+Overall finish time               : 1673825120141202
+Total time with initialization    :         18433631
+Total time without initialization :         16629243
+    (excludes first timestep)
+
+
+real	0m18.508s
+user	5m6.613s
+sys	0m9.311s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m18.514s
+user	5m3.900s
+sys	0m9.226s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          16795505           13292743             0.791
+
+                       TIMING INFORMATION
+Start time                        : 1673825101708072
+Initialization finish time        : 1673825103615663
+Overall finish time               : 1673825120415154
+Total time with initialization    :         18707082
+Total time without initialization :         16799491
+    (excludes first timestep)
+
+
+real	0m18.782s
+user	5m20.911s
+sys	0m8.955s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Keeping old run directory.
+
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [---------- Beginning of output ----------]
+
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Keeping old run directory.
+Generating input file ...
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          19366032           15324106             0.791
+
+                       TIMING INFORMATION
+Start time                        : 1673825121708557
+Initialization finish time        : 1673825123537854
+Overall finish time               : 1673825142937378
+Total time with initialization    :         21228821
+Total time without initialization :         19399524
+    (excludes first timestep)
+
+
+real	0m21.377s
+user	5m12.746s
+sys	0m10.901s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          19942454           15842144             0.794
+
+                       TIMING INFORMATION
+Start time                        : 1673825121705811
+Initialization finish time        : 1673825124257490
+Overall finish time               : 1673825144203018
+Total time with initialization    :         22497207
+Total time without initialization :         19945528
+    (excludes first timestep)
+
+
+real	0m22.596s
+user	5m43.306s
+sys	0m11.319s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          20067424           16642673             0.829
+
+                       TIMING INFORMATION
+Start time                        : 1673825121702730
+Initialization finish time        : 1673825124442008
+Overall finish time               : 1673825144514458
+Total time with initialization    :         22811728
+Total time without initialization :         20072450
+    (excludes first timestep)
+
+
+real	0m22.886s
+user	5m24.723s
+sys	0m10.977s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          20740283           16333483             0.788
+
+                       TIMING INFORMATION
+Start time                        : 1673825121710504
+Initialization finish time        : 1673825123995900
+Overall finish time               : 1673825144740400
+Total time with initialization    :         23029896
+Total time without initialization :         20744500
+    (excludes first timestep)
+
+
+real	0m23.103s
+user	5m40.054s
+sys	0m12.187s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+
+
+
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          16103122           12683540             0.788
+
+                       TIMING INFORMATION
+Start time                        : 1673825146273378
+Initialization finish time        : 1673825148084351
+Overall finish time               : 1673825164197083
+Total time with initialization    :         17923705
+Total time without initialization :         16112732
+    (excludes first timestep)
+
+
+real	0m18.101s
+user	4m40.153s
+sys	0m10.113s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          17173758           14759480             0.859
+
+                       TIMING INFORMATION
+Start time                        : 1673825146271620
+Initialization finish time        : 1673825148281935
+Overall finish time               : 1673825165469116
+Total time with initialization    :         19197496
+Total time without initialization :         17187181
+    (excludes first timestep)
+
+
+real	0m19.369s
+user	4m44.336s
+sys	0m10.008s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          17899379           13590797             0.759
+
+                       TIMING INFORMATION
+Start time                        : 1673825146271680
+Initialization finish time        : 1673825148553408
+Overall finish time               : 1673825166464590
+Total time with initialization    :         20192910
+Total time without initialization :         17911182
+    (excludes first timestep)
+
+
+real	0m20.383s
+user	4m56.235s
+sys	0m12.338s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          17914814           14070017             0.785
+
+                       TIMING INFORMATION
+Start time                        : 1673825146271591
+Initialization finish time        : 1673825149091503
+Overall finish time               : 1673825167008193
+Total time with initialization    :         20736602
+Total time without initialization :         17916690
+    (excludes first timestep)
+
+
+real	0m20.804s
+user	5m15.979s
+sys	0m11.985s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+
+
+
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          13508388           10019847             0.742
+
+                       TIMING INFORMATION
+Start time                        : 1673825168519659
+Initialization finish time        : 1673825170426644
+Overall finish time               : 1673825183944311
+Total time with initialization    :         15424652
+Total time without initialization :         13517667
+    (excludes first timestep)
+
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          13747612           10411780             0.757
+
+                       TIMING INFORMATION
+Start time                        : 1673825168523619
+Initialization finish time        : 1673825170252485
+Overall finish time               : 1673825184006056
+Total time with initialization    :         15482437
+Total time without initialization :         13753571
+    (excludes first timestep)
+
+
+real	0m15.500s
+user	4m51.813s
+sys	0m7.571s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+real	0m15.598s
+user	5m10.982s
+sys	0m8.132s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          14896686           12064332             0.810
+
+                       TIMING INFORMATION
+Start time                        : 1673825168523688
+Initialization finish time        : 1673825169859569
+Overall finish time               : 1673825184756368
+Total time with initialization    :         16232680
+Total time without initialization :         14896799
+    (excludes first timestep)
+
+
+real	0m16.311s
+user	4m31.314s
+sys	0m9.162s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          14713308           11735355             0.798
+
+                       TIMING INFORMATION
+Start time                        : 1673825168523607
+Initialization finish time        : 1673825170359700
+Overall finish time               : 1673825185075794
+Total time with initialization    :         16552187
+Total time without initialization :         14716094
+    (excludes first timestep)
+
+
+real	0m16.640s
+user	4m47.221s
+sys	0m9.762s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+[PARSEC] Benchmarks to run:  splash2x.ocean_cp
+
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+
+
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] [========== Running benchmark splash2x.ocean_cp [1] ==========]
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Keeping old run directory.
+[PARSEC] Keeping old run directory.
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] Running 'time /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/run.sh 32 native':
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+[PARSEC] [---------- Beginning of output ----------]
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+Generating input file ...
+Running /home/fs71695/maxmue/Benchmarks/parsec/ext/splash2x/apps/ocean_cp/inst/amd64-linux.gcc-pthreads/bin/ocean_cp -n4098 -p32 -e1e-07 -r10000 -t14400:
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          16308771           12186200             0.747
+
+                       TIMING INFORMATION
+Start time                        : 1673825186516365
+Initialization finish time        : 1673825188379916
+Overall finish time               : 1673825204688922
+Total time with initialization    :         18172557
+Total time without initialization :         16309006
+    (excludes first timestep)
+
+
+real	0m18.265s
+user	5m9.377s
+sys	0m9.233s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          18081003           14435141             0.798
+
+                       TIMING INFORMATION
+Start time                        : 1673825186513956
+Initialization finish time        : 1673825188437094
+Overall finish time               : 1673825206523246
+Total time with initialization    :         20009290
+Total time without initialization :         18086152
+    (excludes first timestep)
+
+
+real	0m20.142s
+user	5m20.697s
+sys	0m10.943s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          18558866           14396411             0.776
+
+                       TIMING INFORMATION
+Start time                        : 1673825186515260
+Initialization finish time        : 1673825188217774
+Overall finish time               : 1673825206776766
+Total time with initialization    :         20261506
+Total time without initialization :         18558992
+    (excludes first timestep)
+
+
+real	0m20.340s
+user	5m32.612s
+sys	0m11.270s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+
+Ocean simulation with W-cycle multigrid solver
+    Processors                         : 32
+    Grid size                          : 4098 x 4098
+    Grid resolution (meters)           : 10000.00
+    Time between relaxations (seconds) : 14400
+    Error tolerance                    : 1e-07
+
+
+                       PROCESS STATISTICS
+                  Total          Multigrid         Multigrid
+ Proc             Time             Time            Fraction
+    0          18251020           14692011             0.805
+
+                       TIMING INFORMATION
+Start time                        : 1673825186516230
+Initialization finish time        : 1673825188956740
+Overall finish time               : 1673825207211451
+Total time with initialization    :         20695221
+Total time without initialization :         18254711
+    (excludes first timestep)
+
+
+real	0m20.760s
+user	5m4.706s
+sys	0m12.536s
+[PARSEC] [----------    End of output    ----------]
+[PARSEC]
+[PARSEC] BIBLIOGRAPHY
+[PARSEC]
+[PARSEC] [1] Woo et al. The SPLASH-2 Programs: Characterization and Methodological Considerations. ISCA, 1995.
+[PARSEC]
+[PARSEC] Done.
+01/16/23 00:26:47  1673825207.283898054
