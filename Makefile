@@ -6,7 +6,7 @@ mail := "e11810852@student.tuwien.ac.at"
 srun := srun
 parsecmgmt := $(HOME)/Benchmarks/parsec/bin/parsecmgmt
 input := native
-configurations:= freqmine # blackscholes bodytrack # fmm fft barnes ocean_cp ocean_ncp radiosity raytrace volrend water_nsquared water_spatial
+configurations:= freqmine blackscholes bodytrack # fmm fft barnes ocean_cp ocean_ncp radiosity raytrace volrend water_nsquared water_spatial
 bind := none
 
 all: $(configurations)
