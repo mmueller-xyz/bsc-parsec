@@ -8,6 +8,7 @@ parsecmgmt := $(HOME)/Benchmarks/parsec/bin/parsecmgmt
 input := native
 configurations:= freqmine blackscholes bodytrack # fmm fft barnes ocean_cp ocean_ncp radiosity raytrace volrend water_nsquared water_spatial
 bind := none
+runs := 32
 
 all: $(configurations)
 
@@ -45,15 +46,15 @@ all: $(configurations)
 %256.slurm: TASKS = 1
 
 # Number of benchmark iterations
-%001.slurm: RUNS = 10
-%002.slurm: RUNS = 10
-%004.slurm: RUNS = 10
-%008.slurm: RUNS = 10
-%016.slurm: RUNS = 10
-%032.slurm: RUNS = 10
-%064.slurm: RUNS = 10
-%128.slurm: RUNS = 10
-%256.slurm: RUNS = 10
+%001.slurm: RUNS = $(RUNS)
+%002.slurm: RUNS = $(RUNS)
+%004.slurm: RUNS = $(RUNS)
+%008.slurm: RUNS = $(RUNS)
+%016.slurm: RUNS = $(RUNS)
+%032.slurm: RUNS = $(RUNS)
+%064.slurm: RUNS = $(RUNS)
+%128.slurm: RUNS = $(RUNS)
+%256.slurm: RUNS = $(RUNS)
 
 %.slurm:
 	@echo "#!/bin/bash" > $@
