@@ -1,6 +1,6 @@
 # BSc Parsec Project
 
-This repository contains the code and resources for the Bachelor's thesis project on the PARSEC benchmark suite.
+This repository contains the code and resources for the Bachelor's thesis project on the evaluation of the PARSEC benchmark suite in the Vienna Scientific Cluster.
 
 ## Overview
 
@@ -38,7 +38,7 @@ To configure the benchmarks, open the `Makefile` and edit the relevant variables
    ```bash
    make all
     ```
-    This will create SLURM job files in the out/ directory, each corresponding to the specified benchmark configurations. The generated files will include all necessary parameters, such as thread count, binding strategy, and input size, for running the benchmarks on the cluster.
+    This will create SLURM job files in the `out/` directory, each corresponding to the specified benchmark configurations. The generated files will include all necessary parameters, such as thread count, binding strategy, and input size, for running the benchmarks on the cluster.
 4. **Submit Jobs to the Cluster**:  
    After generating the SLURM job files, submit them to the cluster queue using the following command:  
    ```bash
@@ -63,6 +63,31 @@ To configure the benchmarks, open the `Makefile` and edit the relevant variables
 - **`runs`**: Set the amount of benchmark iterations in each SLURM file.
 - **`parsecmgmt`**: Path of the `parsecmgmt` binary.
 
+### Example SLURM Script
+```bash
+#!/bin/bash
+#SBATCH --job-name 'bodytrack_001_gcc-openmp_none' 
+#SBATCH --output out/bodytrack_001_gcc-openmp_none_%j.out
+#SBATCH --nodes 1
+#SBATCH --ntasks 1
+#SBATCH --cpus-per-task 1
+#SBATCH --profile=all
+#SBATCH --mem=0
+#SBATCH --exclusive
+#SBATCH --partition=zen3_0512
+#SBATCH --time 40:00
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user=examle@tuwien.ac.at
+hostname
+echo Testing bodytrack 10 times on 1 cores with 1 parallel executions using input size:native and OMP_PROC_BIND: none
+date "+%D %T  %s.%N"
+/home/fs71695/maxmue/Benchmarks/parsec/bin/parsecmgmt -k -a run -c gcc-openmp  -i native -n 1 -p bodytrack &
+wait
+/home/fs71695/maxmue/Benchmarks/parsec/bin/parsecmgmt -k -a run -c gcc-openmp  -i native -n 1 -p bodytrack &
+wait
+date "+%D %T  %s.%N"
+```
+
 ## Data Processing
 
 The script `bin/extractData.py` requires the dependencies
@@ -77,3 +102,13 @@ The `*.out` files have to be provided as parameters to `extractData.py`
 bin/extractdata.py `ls out/*.out` 
 ```
 The Tables and Figures get exported to `$PWD/benchmark_results`.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Acknowledgments
+ - The PARSEC benchmark suite
+ - Vienna Scientific Cluster (VSC): https://vsc.ac.at/
+ - Dr. Hunold Sascha
+ - [Michael Borko](https://github.com/mborko)
