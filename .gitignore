@@ -1,2 +1,14 @@
 **/*.slurm
 *.slurm
+
+**/*.pdf
+*.pdf
+
+**/*.tex
+*.tex
+**/*.csv
+*.csv
+
+
+.idea/
+venv/
