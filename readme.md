@@ -18,7 +18,14 @@ The PARSEC (Princeton Application Repository for Shared-Memory Computers) benchm
 To set up and run the PARSEC benchmarks:
 
 0. **Clone the Parsec Repository and build the benchmarks**:
-
+    ```bash
+   git clone https://github.com/bamos/parsec-benchmark
+   cd parsec-benchmark
+   bin/parsecmgmt  -a build -p blackscholes -c gcc-openmp
+   bin/parsecmgmt  -a build -p bodytrack -c gcc-openmp
+   bin/parsecmgmt  -a build -p freqmine -c gcc-openmp
+   cd ..
+   ```
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/mmueller-xyz/bsc-parsec.git
@@ -35,8 +42,14 @@ To configure the benchmarks, open the `Makefile` and edit the relevant variables
 4. **Submit Jobs to the Cluster**:  
    After generating the SLURM job files, submit them to the cluster queue using the following command:  
    ```bash
-   make submit
+   make srun
    ```
+   The output of the jobs is saved into a new out/ folder created at  `pwd`. This can be changed in the following line in the Makefile:
+   ```Makefile
+	@echo "#SBATCH --output out/$(PACKAGE)_$(CORES_PER_TASK_printed)_$(CONFIG)_$(bind)_%j.out" >> $@
+   ```
+
+
 ### Key Variables to Configure
 
 - **`configurations`**: Specify the PARSEC benchmark to run (e.g., `blackscholes`, `bodytrack`, `freqmine`).
@@ -48,13 +61,19 @@ To configure the benchmarks, open the `Makefile` and edit the relevant variables
 - **`time`**: Set the maximum wall-clock time for the job in the format `HH:MM:SS` (e.g., `02:00:00` for 2 hours). Note: The lower this number is, the higher the likelihood the scheduler will run the task sooner, especially when using `idle_qos`.
 - **`mail`**: Set the email address to receive notifications about job status (e.g., `user@example.com`).
 - **`runs`**: Set the amount of benchmark iterations in each SLURM file.
+- **`parsecmgmt`**: Path of the `parsecmgmt` binary.
 
-### Example Configuration
+## Data Processing
 
-Edit the `Makefile` to set your desired configuration. For example:
-```make
-configurations=blackscholes
-THREADS=001 002 004 008 016 032
-BINDING=spread
-INPUT=native
+The script `bin/extractData.py` requires the dependencies
+ - pandas,
+ - matplotlib,
+ - Jinja2
+ - numpy and
+ - scipy.
+
+The `*.out` files have to be provided as parameters to `extractData.py`
+```bash
+bin/extractdata.py `ls out/*.out` 
 ```
+The Tables and Figures get exported to `$PWD/benchmark_results`.
